@@ -1,0 +1,8154 @@
+{
+  "DSA unit1": [
+    {
+      "id": "1",
+      "question": "Data refers to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Processed facts"
+        },
+        {
+          "key": "b",
+          "text": "Raw facts and figures"
+        },
+        {
+          "key": "c",
+          "text": "Meaningful output"
+        },
+        {
+          "key": "d",
+          "text": "Organized knowledge"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "2",
+      "question": "Information is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Raw data"
+        },
+        {
+          "key": "b",
+          "text": "Unprocessed data"
+        },
+        {
+          "key": "c",
+          "text": "Processed and meaningful data"
+        },
+        {
+          "key": "d",
+          "text": "Random facts"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "3",
+      "question": "An entity is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "A variable"
+        },
+        {
+          "key": "b",
+          "text": "A real-world object"
+        },
+        {
+          "key": "c",
+          "text": "A data type"
+        },
+        {
+          "key": "d",
+          "text": "An algorithm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "4",
+      "question": "Which of the following best defines data?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Knowledge"
+        },
+        {
+          "key": "b",
+          "text": "Facts without context"
+        },
+        {
+          "key": "c",
+          "text": "Results"
+        },
+        {
+          "key": "d",
+          "text": "Programs"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "5",
+      "question": "Information is derived from:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Programs"
+        },
+        {
+          "key": "b",
+          "text": "Algorithms"
+        },
+        {
+          "key": "c",
+          "text": "Data"
+        },
+        {
+          "key": "d",
+          "text": "Hardware"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "6",
+      "question": "Data becomes information when it is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stored"
+        },
+        {
+          "key": "b",
+          "text": "Printed"
+        },
+        {
+          "key": "c",
+          "text": "Processed"
+        },
+        {
+          "key": "d",
+          "text": "Deleted"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "7",
+      "question": "Which is an example of data?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Student report"
+        },
+        {
+          "key": "b",
+          "text": "Mark sheet summary"
+        },
+        {
+          "key": "c",
+          "text": "85, 90, 78"
+        },
+        {
+          "key": "d",
+          "text": "Performance analysis"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "8",
+      "question": "Which is an example of information?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Numbers"
+        },
+        {
+          "key": "b",
+          "text": "Characters"
+        },
+        {
+          "key": "c",
+          "text": "Student grade report"
+        },
+        {
+          "key": "d",
+          "text": "Bits"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "9",
+      "question": "Data without meaning is called:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Information"
+        },
+        {
+          "key": "b",
+          "text": "Knowledge"
+        },
+        {
+          "key": "c",
+          "text": "Raw data"
+        },
+        {
+          "key": "d",
+          "text": "Processed data"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "10",
+      "question": "Entity mainly represents:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Data type"
+        },
+        {
+          "key": "b",
+          "text": "Object with attributes"
+        },
+        {
+          "key": "c",
+          "text": "Program"
+        },
+        {
+          "key": "d",
+          "text": "Algorithm"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "11",
+      "question": "Data is stored in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Registers"
+        },
+        {
+          "key": "b",
+          "text": "Memory"
+        },
+        {
+          "key": "c",
+          "text": "CPU"
+        },
+        {
+          "key": "d",
+          "text": "ALU"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "12",
+      "question": "Information helps in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Processing"
+        },
+        {
+          "key": "b",
+          "text": "Decision making"
+        },
+        {
+          "key": "c",
+          "text": "Compilation"
+        },
+        {
+          "key": "d",
+          "text": "Debugging"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "13",
+      "question": "Data can exist in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Only numeric form"
+        },
+        {
+          "key": "b",
+          "text": "Only textual form"
+        },
+        {
+          "key": "c",
+          "text": "Multiple forms"
+        },
+        {
+          "key": "d",
+          "text": "Binary only"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "14",
+      "question": "Information is always:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Random"
+        },
+        {
+          "key": "b",
+          "text": "Meaningless"
+        },
+        {
+          "key": "c",
+          "text": "Organized"
+        },
+        {
+          "key": "d",
+          "text": "Unstructured"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "15",
+      "question": "Which converts data into information?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Storage"
+        },
+        {
+          "key": "b",
+          "text": "Processing"
+        },
+        {
+          "key": "c",
+          "text": "Transmission"
+        },
+        {
+          "key": "d",
+          "text": "Compilation"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "16",
+      "question": "Data alone is not useful because it:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Is incorrect"
+        },
+        {
+          "key": "b",
+          "text": "Lacks context"
+        },
+        {
+          "key": "c",
+          "text": "Is slow"
+        },
+        {
+          "key": "d",
+          "text": "Is large"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "17",
+      "question": "Entity is closely related to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Attributes"
+        },
+        {
+          "key": "b",
+          "text": "Operators"
+        },
+        {
+          "key": "c",
+          "text": "Constants"
+        },
+        {
+          "key": "d",
+          "text": "Functions"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "18",
+      "question": "Information is more:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Meaningful"
+        },
+        {
+          "key": "b",
+          "text": "Random"
+        },
+        {
+          "key": "c",
+          "text": "Raw"
+        },
+        {
+          "key": "d",
+          "text": "Unprocessed"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "19",
+      "question": "Which one is NOT data?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Characters"
+        },
+        {
+          "key": "b",
+          "text": "Numbers"
+        },
+        {
+          "key": "c",
+          "text": "Images"
+        },
+        {
+          "key": "d",
+          "text": "Decision"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "20",
+      "question": "Data is input for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Output"
+        },
+        {
+          "key": "b",
+          "text": "Processing"
+        },
+        {
+          "key": "c",
+          "text": "Memory"
+        },
+        {
+          "key": "d",
+          "text": "Storage"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "21",
+      "question": "Data type specifies:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Size and type of data"
+        },
+        {
+          "key": "b",
+          "text": "Value only"
+        },
+        {
+          "key": "c",
+          "text": "Memory address"
+        },
+        {
+          "key": "d",
+          "text": "Algorithm"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "22",
+      "question": "Built-in data types are:",
+      "options": [
+        {
+          "key": "a",
+          "text": "User-defined"
+        },
+        {
+          "key": "b",
+          "text": "Predefined by language"
+        },
+        {
+          "key": "c",
+          "text": "Abstract"
+        },
+        {
+          "key": "d",
+          "text": "Dynamic"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "23",
+      "question": "Which is a built-in data type?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack"
+        },
+        {
+          "key": "b",
+          "text": "Queue"
+        },
+        {
+          "key": "c",
+          "text": "Integer"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "24",
+      "question": "Abstract Data Type (ADT) focuses on:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Implementation"
+        },
+        {
+          "key": "b",
+          "text": "Storage"
+        },
+        {
+          "key": "c",
+          "text": "What operations are performed"
+        },
+        {
+          "key": "d",
+          "text": "Memory size"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "25",
+      "question": "Data structure is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Algorithm"
+        },
+        {
+          "key": "b",
+          "text": "Way of organizing data"
+        },
+        {
+          "key": "c",
+          "text": "Compiler"
+        },
+        {
+          "key": "d",
+          "text": "Software"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "26",
+      "question": "Which is NOT a data structure?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Array"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Algorithm"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "27",
+      "question": "Linear data structures store data:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hierarchically"
+        },
+        {
+          "key": "b",
+          "text": "Sequentially"
+        },
+        {
+          "key": "c",
+          "text": "Graphically"
+        },
+        {
+          "key": "d",
+          "text": "Randomly"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "28",
+      "question": "Example of linear data structure:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tree"
+        },
+        {
+          "key": "b",
+          "text": "Graph"
+        },
+        {
+          "key": "c",
+          "text": "Array"
+        },
+        {
+          "key": "d",
+          "text": "Network"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "29",
+      "question": "Non-linear data structures store data:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sequentially"
+        },
+        {
+          "key": "b",
+          "text": "Linearly"
+        },
+        {
+          "key": "c",
+          "text": "Hierarchically"
+        },
+        {
+          "key": "d",
+          "text": "Contiguously"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "30",
+      "question": "Which is a non-linear data structure?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack"
+        },
+        {
+          "key": "b",
+          "text": "Queue"
+        },
+        {
+          "key": "c",
+          "text": "Tree"
+        },
+        {
+          "key": "d",
+          "text": "Array"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "31",
+      "question": "Stack follows:",
+      "options": [
+        {
+          "key": "a",
+          "text": "FIFO"
+        },
+        {
+          "key": "b",
+          "text": "LIFO"
+        },
+        {
+          "key": "c",
+          "text": "Random"
+        },
+        {
+          "key": "d",
+          "text": "Priority"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "32",
+      "question": "Queue follows:",
+      "options": [
+        {
+          "key": "a",
+          "text": "LIFO"
+        },
+        {
+          "key": "b",
+          "text": "FILO"
+        },
+        {
+          "key": "c",
+          "text": "FIFO"
+        },
+        {
+          "key": "d",
+          "text": "Random"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "33",
+      "question": "ADT hides:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Data"
+        },
+        {
+          "key": "b",
+          "text": "Operations"
+        },
+        {
+          "key": "c",
+          "text": "Implementation details"
+        },
+        {
+          "key": "d",
+          "text": "Output"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "34",
+      "question": "Which is an ADT?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Integer"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Float"
+        },
+        {
+          "key": "d",
+          "text": "Character"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "35",
+      "question": "Data structures improve:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Memory usage"
+        },
+        {
+          "key": "b",
+          "text": "Program efficiency"
+        },
+        {
+          "key": "c",
+          "text": "Execution time"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "36",
+      "question": "Primitive data types include:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Array"
+        },
+        {
+          "key": "b",
+          "text": "Structure"
+        },
+        {
+          "key": "c",
+          "text": "Integer"
+        },
+        {
+          "key": "d",
+          "text": "File"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "37",
+      "question": "Which is NOT primitive?",
+      "options": [
+        {
+          "key": "a",
+          "text": "int"
+        },
+        {
+          "key": "b",
+          "text": "char"
+        },
+        {
+          "key": "c",
+          "text": "float"
+        },
+        {
+          "key": "d",
+          "text": "array"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "38",
+      "question": "Data structure choice depends on:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Data size"
+        },
+        {
+          "key": "b",
+          "text": "Operations"
+        },
+        {
+          "key": "c",
+          "text": "Memory"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "39",
+      "question": "Tree is used to represent:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear data"
+        },
+        {
+          "key": "b",
+          "text": "Hierarchical data"
+        },
+        {
+          "key": "c",
+          "text": "Sequential data"
+        },
+        {
+          "key": "d",
+          "text": "Random data"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "40",
+      "question": "Graph represents:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hierarchical relations"
+        },
+        {
+          "key": "b",
+          "text": "Network relations"
+        },
+        {
+          "key": "c",
+          "text": "Sequential relations"
+        },
+        {
+          "key": "d",
+          "text": "Linear relations"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "41",
+      "question": "Data structure is a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Programming language"
+        },
+        {
+          "key": "b",
+          "text": "Storage format"
+        },
+        {
+          "key": "c",
+          "text": "Logical organization"
+        },
+        {
+          "key": "d",
+          "text": "Hardware device"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "42",
+      "question": "Which structure allows random access?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack"
+        },
+        {
+          "key": "b",
+          "text": "Queue"
+        },
+        {
+          "key": "c",
+          "text": "Array"
+        },
+        {
+          "key": "d",
+          "text": "Linked list"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "43",
+      "question": "Linked list elements are connected using:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Index"
+        },
+        {
+          "key": "b",
+          "text": "Pointer"
+        },
+        {
+          "key": "c",
+          "text": "Value"
+        },
+        {
+          "key": "d",
+          "text": "Key"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "44",
+      "question": "Which is dynamic data structure?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Array"
+        },
+        {
+          "key": "b",
+          "text": "Linked list"
+        },
+        {
+          "key": "c",
+          "text": "String"
+        },
+        {
+          "key": "d",
+          "text": "Integer"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "45",
+      "question": "Main advantage of ADT is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Speed"
+        },
+        {
+          "key": "b",
+          "text": "Security"
+        },
+        {
+          "key": "c",
+          "text": "Modularity"
+        },
+        {
+          "key": "d",
+          "text": "Simplicity"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "46",
+      "question": "Algorithm is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Code"
+        },
+        {
+          "key": "b",
+          "text": "Step-by-step procedure"
+        },
+        {
+          "key": "c",
+          "text": "Program"
+        },
+        {
+          "key": "d",
+          "text": "Language"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "47",
+      "question": "Algorithm must be:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Infinite"
+        },
+        {
+          "key": "b",
+          "text": "Finite"
+        },
+        {
+          "key": "c",
+          "text": "Recursive only"
+        },
+        {
+          "key": "d",
+          "text": "Complex"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "48",
+      "question": "Difference between algorithm and program:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Algorithm is language-independent"
+        },
+        {
+          "key": "b",
+          "text": "Program is language-independent"
+        },
+        {
+          "key": "c",
+          "text": "Both same"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "49",
+      "question": "Program is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Concept"
+        },
+        {
+          "key": "b",
+          "text": "Implementation of algorithm"
+        },
+        {
+          "key": "c",
+          "text": "Theory"
+        },
+        {
+          "key": "d",
+          "text": "Flowchart"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "50",
+      "question": "Which is NOT a property of algorithm?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Input"
+        },
+        {
+          "key": "b",
+          "text": "Output"
+        },
+        {
+          "key": "c",
+          "text": "Ambiguity"
+        },
+        {
+          "key": "d",
+          "text": "Finiteness"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "51",
+      "question": "An algorithm must have:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Zero input"
+        },
+        {
+          "key": "b",
+          "text": "At least one output"
+        },
+        {
+          "key": "c",
+          "text": "Multiple outputs only"
+        },
+        {
+          "key": "d",
+          "text": "No input"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "52",
+      "question": "Algorithm design techniques include:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Divide and conquer"
+        },
+        {
+          "key": "b",
+          "text": "Greedy method"
+        },
+        {
+          "key": "c",
+          "text": "Dynamic programming"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "53",
+      "question": "Performance analysis measures:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Code length"
+        },
+        {
+          "key": "b",
+          "text": "Time and space"
+        },
+        {
+          "key": "c",
+          "text": "Syntax"
+        },
+        {
+          "key": "d",
+          "text": "Output size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "54",
+      "question": "Time complexity is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Memory usage"
+        },
+        {
+          "key": "b",
+          "text": "Execution time"
+        },
+        {
+          "key": "c",
+          "text": "CPU speed"
+        },
+        {
+          "key": "d",
+          "text": "Disk usage"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "55",
+      "question": "Space complexity measures:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Time"
+        },
+        {
+          "key": "b",
+          "text": "Memory"
+        },
+        {
+          "key": "c",
+          "text": "Speed"
+        },
+        {
+          "key": "d",
+          "text": "Cost"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "56",
+      "question": "Best-case complexity is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Minimum time"
+        },
+        {
+          "key": "b",
+          "text": "Maximum time"
+        },
+        {
+          "key": "c",
+          "text": "Average time"
+        },
+        {
+          "key": "d",
+          "text": "Random time"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "57",
+      "question": "Worst-case complexity is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Minimum time"
+        },
+        {
+          "key": "b",
+          "text": "Maximum time"
+        },
+        {
+          "key": "c",
+          "text": "Average time"
+        },
+        {
+          "key": "d",
+          "text": "Constant time"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "58",
+      "question": "Average-case complexity is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Minimum"
+        },
+        {
+          "key": "b",
+          "text": "Maximum"
+        },
+        {
+          "key": "c",
+          "text": "Expected time"
+        },
+        {
+          "key": "d",
+          "text": "Zero"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "59",
+      "question": "Asymptotic notation describes:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Exact time"
+        },
+        {
+          "key": "b",
+          "text": "Approximate growth"
+        },
+        {
+          "key": "c",
+          "text": "Hardware speed"
+        },
+        {
+          "key": "d",
+          "text": "Compilation time"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "60",
+      "question": "Big O notation represents:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Best case"
+        },
+        {
+          "key": "b",
+          "text": "Average case"
+        },
+        {
+          "key": "c",
+          "text": "Worst case"
+        },
+        {
+          "key": "d",
+          "text": "Random case"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "61",
+      "question": "O(1) complexity means:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear time"
+        },
+        {
+          "key": "b",
+          "text": "Constant time"
+        },
+        {
+          "key": "c",
+          "text": "Quadratic time"
+        },
+        {
+          "key": "d",
+          "text": "Log time"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "62",
+      "question": "O(n) complexity is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Constant"
+        },
+        {
+          "key": "b",
+          "text": "Linear"
+        },
+        {
+          "key": "c",
+          "text": "Quadratic"
+        },
+        {
+          "key": "d",
+          "text": "Logarithmic"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "63",
+      "question": "O(n²) complexity is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Quadratic"
+        },
+        {
+          "key": "c",
+          "text": "Logarithmic"
+        },
+        {
+          "key": "d",
+          "text": "Constant"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "64",
+      "question": "Binary search has complexity:",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(n)"
+        },
+        {
+          "key": "b",
+          "text": "O(n²)"
+        },
+        {
+          "key": "c",
+          "text": "O(log n)"
+        },
+        {
+          "key": "d",
+          "text": "O(1)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "65",
+      "question": "Linear search complexity:",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(log n)"
+        },
+        {
+          "key": "b",
+          "text": "O(1)"
+        },
+        {
+          "key": "c",
+          "text": "O(n)"
+        },
+        {
+          "key": "d",
+          "text": "O(n²)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "66",
+      "question": "Divide and conquer breaks problem into:",
+      "options": [
+        {
+          "key": "a",
+          "text": "One part"
+        },
+        {
+          "key": "b",
+          "text": "Two or more subproblems"
+        },
+        {
+          "key": "c",
+          "text": "Random parts"
+        },
+        {
+          "key": "d",
+          "text": "Equal data only"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "67",
+      "question": "Greedy algorithm chooses:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Optimal global solution directly"
+        },
+        {
+          "key": "b",
+          "text": "Best local choice"
+        },
+        {
+          "key": "c",
+          "text": "Random choice"
+        },
+        {
+          "key": "d",
+          "text": "Worst choice"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "68",
+      "question": "Dynamic programming uses:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Recursion only"
+        },
+        {
+          "key": "b",
+          "text": "Overlapping subproblems"
+        },
+        {
+          "key": "c",
+          "text": "Randomization"
+        },
+        {
+          "key": "d",
+          "text": "Sorting"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "69",
+      "question": "Algorithm efficiency is independent of:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Input size"
+        },
+        {
+          "key": "b",
+          "text": "Hardware"
+        },
+        {
+          "key": "c",
+          "text": "Algorithm design"
+        },
+        {
+          "key": "d",
+          "text": "Data structure"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "70",
+      "question": "Big O ignores:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Lower-order terms"
+        },
+        {
+          "key": "b",
+          "text": "Constants"
+        },
+        {
+          "key": "c",
+          "text": "Both a and b"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "71",
+      "question": "O(log n) grows:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Faster than O(n)"
+        },
+        {
+          "key": "b",
+          "text": "Slower than O(n)"
+        },
+        {
+          "key": "c",
+          "text": "Same as O(n)"
+        },
+        {
+          "key": "d",
+          "text": "Faster than O(n²)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "72",
+      "question": "Which is fastest growth?",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(n)"
+        },
+        {
+          "key": "b",
+          "text": "O(log n)"
+        },
+        {
+          "key": "c",
+          "text": "O(n²)"
+        },
+        {
+          "key": "d",
+          "text": "O(1)"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "73",
+      "question": "Which is slowest growth?",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(n)"
+        },
+        {
+          "key": "b",
+          "text": "O(n²)"
+        },
+        {
+          "key": "c",
+          "text": "O(log n)"
+        },
+        {
+          "key": "d",
+          "text": "O(1)"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "74",
+      "question": "Algorithm analysis helps to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Write code"
+        },
+        {
+          "key": "b",
+          "text": "Compare algorithms"
+        },
+        {
+          "key": "c",
+          "text": "Compile program"
+        },
+        {
+          "key": "d",
+          "text": "Execute code"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "75",
+      "question": "Pseudocode is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Programming language"
+        },
+        {
+          "key": "b",
+          "text": "Informal algorithm description"
+        },
+        {
+          "key": "c",
+          "text": "Machine code"
+        },
+        {
+          "key": "d",
+          "text": "Flowchart"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "76",
+      "question": "Flowchart uses:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Symbols"
+        },
+        {
+          "key": "b",
+          "text": "Code"
+        },
+        {
+          "key": "c",
+          "text": "Variables"
+        },
+        {
+          "key": "d",
+          "text": "Memory"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "77",
+      "question": "Algorithm should be:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ambiguous"
+        },
+        {
+          "key": "b",
+          "text": "Clear"
+        },
+        {
+          "key": "c",
+          "text": "Infinite"
+        },
+        {
+          "key": "d",
+          "text": "Language-dependent"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "78",
+      "question": "Which affects algorithm complexity?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Input size"
+        },
+        {
+          "key": "b",
+          "text": "Input order"
+        },
+        {
+          "key": "c",
+          "text": "Algorithm logic"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "79",
+      "question": "Worst-case analysis is important because:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Always occurs"
+        },
+        {
+          "key": "b",
+          "text": "Guarantees upper bound"
+        },
+        {
+          "key": "c",
+          "text": "Fastest case"
+        },
+        {
+          "key": "d",
+          "text": "Average only"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "80",
+      "question": "Complexity analysis ignores:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hardware"
+        },
+        {
+          "key": "b",
+          "text": "Compiler"
+        },
+        {
+          "key": "c",
+          "text": "Language"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "81",
+      "question": "Big O notation was introduced to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Measure exact time"
+        },
+        {
+          "key": "b",
+          "text": "Compare algorithms"
+        },
+        {
+          "key": "c",
+          "text": "Write programs"
+        },
+        {
+          "key": "d",
+          "text": "Debug code"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "82",
+      "question": "Which is NOT asymptotic notation?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Big O"
+        },
+        {
+          "key": "b",
+          "text": "Omega"
+        },
+        {
+          "key": "c",
+          "text": "Theta"
+        },
+        {
+          "key": "d",
+          "text": "Sigma"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "83",
+      "question": "Big O provides:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Lower bound"
+        },
+        {
+          "key": "b",
+          "text": "Upper bound"
+        },
+        {
+          "key": "c",
+          "text": "Exact bound"
+        },
+        {
+          "key": "d",
+          "text": "Average bound"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "84",
+      "question": "Algorithm correctness means:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Compiles correctly"
+        },
+        {
+          "key": "b",
+          "text": "Produces correct output"
+        },
+        {
+          "key": "c",
+          "text": "Runs fast"
+        },
+        {
+          "key": "d",
+          "text": "Uses less memory"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "85",
+      "question": "Recursive algorithm uses:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Loop only"
+        },
+        {
+          "key": "b",
+          "text": "Function calling itself"
+        },
+        {
+          "key": "c",
+          "text": "Stack only"
+        },
+        {
+          "key": "d",
+          "text": "Queue only"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "86",
+      "question": "Termination condition is required in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Iteration"
+        },
+        {
+          "key": "b",
+          "text": "Recursion"
+        },
+        {
+          "key": "c",
+          "text": "Algorithm"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "87",
+      "question": "Algorithm without termination:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Is correct"
+        },
+        {
+          "key": "b",
+          "text": "Is infinite"
+        },
+        {
+          "key": "c",
+          "text": "Is optimal"
+        },
+        {
+          "key": "d",
+          "text": "Is efficient"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "88",
+      "question": "Algorithm design focuses on:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Logic"
+        },
+        {
+          "key": "b",
+          "text": "Efficiency"
+        },
+        {
+          "key": "c",
+          "text": "Correctness"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "89",
+      "question": "Which notation is commonly used?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Big O"
+        },
+        {
+          "key": "b",
+          "text": "Small o"
+        },
+        {
+          "key": "c",
+          "text": "Big theta"
+        },
+        {
+          "key": "d",
+          "text": "All"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "90",
+      "question": "O(n!) complexity is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Very efficient"
+        },
+        {
+          "key": "b",
+          "text": "Efficient"
+        },
+        {
+          "key": "c",
+          "text": "Inefficient"
+        },
+        {
+          "key": "d",
+          "text": "Constant"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "91",
+      "question": "Algorithm input size usually represented by:",
+      "options": [
+        {
+          "key": "a",
+          "text": "x"
+        },
+        {
+          "key": "b",
+          "text": "y"
+        },
+        {
+          "key": "c",
+          "text": "n"
+        },
+        {
+          "key": "d",
+          "text": "k"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "92",
+      "question": "Space complexity includes:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Input space"
+        },
+        {
+          "key": "b",
+          "text": "Auxiliary space"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "93",
+      "question": "Which case depends on input order?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Best"
+        },
+        {
+          "key": "b",
+          "text": "Worst"
+        },
+        {
+          "key": "c",
+          "text": "Average"
+        },
+        {
+          "key": "d",
+          "text": "All"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "94",
+      "question": "Algorithm must be:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ambiguous"
+        },
+        {
+          "key": "b",
+          "text": "Deterministic"
+        },
+        {
+          "key": "c",
+          "text": "Infinite"
+        },
+        {
+          "key": "d",
+          "text": "Random"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "95",
+      "question": "Big O is machine:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dependent"
+        },
+        {
+          "key": "b",
+          "text": "Independent"
+        },
+        {
+          "key": "c",
+          "text": "Compiler dependent"
+        },
+        {
+          "key": "d",
+          "text": "OS dependent"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "96",
+      "question": "Which is a design technique?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sorting"
+        },
+        {
+          "key": "b",
+          "text": "Searching"
+        },
+        {
+          "key": "c",
+          "text": "Divide and conquer"
+        },
+        {
+          "key": "d",
+          "text": "Printing"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "97",
+      "question": "Algorithm analysis is done:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Before coding"
+        },
+        {
+          "key": "b",
+          "text": "After coding"
+        },
+        {
+          "key": "c",
+          "text": "During execution"
+        },
+        {
+          "key": "d",
+          "text": "Compilation"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "98",
+      "question": "Which factor is ignored in complexity?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Constant factors"
+        },
+        {
+          "key": "b",
+          "text": "Input size"
+        },
+        {
+          "key": "c",
+          "text": "Growth rate"
+        },
+        {
+          "key": "d",
+          "text": "Order"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "99",
+      "question": "Purpose of asymptotic analysis:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Exact runtime"
+        },
+        {
+          "key": "b",
+          "text": "Predict performance"
+        },
+        {
+          "key": "c",
+          "text": "Debug code"
+        },
+        {
+          "key": "d",
+          "text": "Reduce syntax errors"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "100",
+      "question": "Data structures and algorithms together help in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Faster execution"
+        },
+        {
+          "key": "b",
+          "text": "Efficient memory use"
+        },
+        {
+          "key": "c",
+          "text": "Better performance"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": "d"
+    }
+  ],
+  "DSA unit2": [
+    {
+      "id": "1",
+      "question": "An array is a collection of ______ elements.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Different type"
+        },
+        {
+          "key": "b",
+          "text": "Same type"
+        },
+        {
+          "key": "c",
+          "text": "Random type"
+        },
+        {
+          "key": "d",
+          "text": "Character type"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "2",
+      "question": "The index of the first element in most programming arrays is",
+      "options": [
+        {
+          "key": "a",
+          "text": "0"
+        },
+        {
+          "key": "b",
+          "text": "1"
+        },
+        {
+          "key": "c",
+          "text": "-1"
+        },
+        {
+          "key": "d",
+          "text": "2"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "3",
+      "question": "The number of elements in an array is called",
+      "options": [
+        {
+          "key": "a",
+          "text": "Size"
+        },
+        {
+          "key": "b",
+          "text": "Index"
+        },
+        {
+          "key": "c",
+          "text": "Address"
+        },
+        {
+          "key": "d",
+          "text": "Type"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "4",
+      "question": "A two-dimensional array is also known as",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear array"
+        },
+        {
+          "key": "b",
+          "text": "Matrix"
+        },
+        {
+          "key": "c",
+          "text": "Pointer array"
+        },
+        {
+          "key": "d",
+          "text": "Character array"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "5",
+      "question": "The memory location of an array element is calculated using",
+      "options": [
+        {
+          "key": "a",
+          "text": "Base address"
+        },
+        {
+          "key": "b",
+          "text": "Offset formula"
+        },
+        {
+          "key": "c",
+          "text": "Index"
+        },
+        {
+          "key": "d",
+          "text": "All of these"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "6",
+      "question": "Which data structure stores elements in contiguous memory?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linked List"
+        },
+        {
+          "key": "b",
+          "text": "Array"
+        },
+        {
+          "key": "c",
+          "text": "Tree"
+        },
+        {
+          "key": "d",
+          "text": "Graph"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "7",
+      "question": "Sparse matrices contain",
+      "options": [
+        {
+          "key": "a",
+          "text": "Equal number of zeros and non-zeros"
+        },
+        {
+          "key": "b",
+          "text": "Mostly zero elements"
+        },
+        {
+          "key": "c",
+          "text": "No zero elements"
+        },
+        {
+          "key": "d",
+          "text": "Only diagonal elements"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "8",
+      "question": "Sparse matrices help in",
+      "options": [
+        {
+          "key": "a",
+          "text": "Increasing memory usage"
+        },
+        {
+          "key": "b",
+          "text": "Reducing memory usage"
+        },
+        {
+          "key": "c",
+          "text": "Deleting data"
+        },
+        {
+          "key": "d",
+          "text": "Sorting data"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "9",
+      "question": "A lower triangular matrix contains non-zero elements",
+      "options": [
+        {
+          "key": "a",
+          "text": "Above diagonal"
+        },
+        {
+          "key": "b",
+          "text": "On diagonal only"
+        },
+        {
+          "key": "c",
+          "text": "Below diagonal"
+        },
+        {
+          "key": "d",
+          "text": "Randomly"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "10",
+      "question": "An upper triangular matrix contains non-zero elements",
+      "options": [
+        {
+          "key": "a",
+          "text": "Above diagonal"
+        },
+        {
+          "key": "b",
+          "text": "Below diagonal"
+        },
+        {
+          "key": "c",
+          "text": "Both sides"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "11",
+      "question": "In a triangular matrix, elements on the diagonal are",
+      "options": [
+        {
+          "key": "a",
+          "text": "Always zero"
+        },
+        {
+          "key": "b",
+          "text": "Always non-zero"
+        },
+        {
+          "key": "c",
+          "text": "May be zero or non-zero"
+        },
+        {
+          "key": "d",
+          "text": "Always 1"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "12",
+      "question": "A tri-diagonal matrix has non-zero elements on",
+      "options": [
+        {
+          "key": "a",
+          "text": "One diagonal"
+        },
+        {
+          "key": "b",
+          "text": "Three diagonals"
+        },
+        {
+          "key": "c",
+          "text": "Four diagonals"
+        },
+        {
+          "key": "d",
+          "text": "Five diagonals"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "13",
+      "question": "Sparse matrix representation reduces",
+      "options": [
+        {
+          "key": "a",
+          "text": "Memory space"
+        },
+        {
+          "key": "b",
+          "text": "Processing speed"
+        },
+        {
+          "key": "c",
+          "text": "Input size"
+        },
+        {
+          "key": "d",
+          "text": "Data type"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "14",
+      "question": "Linked list elements are called",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nodes"
+        },
+        {
+          "key": "b",
+          "text": "Blocks"
+        },
+        {
+          "key": "c",
+          "text": "Arrays"
+        },
+        {
+          "key": "d",
+          "text": "Trees"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "15",
+      "question": "Each node in a linked list contains",
+      "options": [
+        {
+          "key": "a",
+          "text": "Data only"
+        },
+        {
+          "key": "b",
+          "text": "Pointer only"
+        },
+        {
+          "key": "c",
+          "text": "Data and pointer"
+        },
+        {
+          "key": "d",
+          "text": "Address only"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "16",
+      "question": "Linked lists store elements in",
+      "options": [
+        {
+          "key": "a",
+          "text": "Contiguous memory"
+        },
+        {
+          "key": "b",
+          "text": "Random memory locations"
+        },
+        {
+          "key": "c",
+          "text": "Fixed memory"
+        },
+        {
+          "key": "d",
+          "text": "Sequential memory"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "17",
+      "question": "The first node of a linked list is accessed using",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tail pointer"
+        },
+        {
+          "key": "b",
+          "text": "Head pointer"
+        },
+        {
+          "key": "c",
+          "text": "Root pointer"
+        },
+        {
+          "key": "d",
+          "text": "End pointer"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "18",
+      "question": "The last node of a linked list points to",
+      "options": [
+        {
+          "key": "a",
+          "text": "First node"
+        },
+        {
+          "key": "b",
+          "text": "Previous node"
+        },
+        {
+          "key": "c",
+          "text": "NULL"
+        },
+        {
+          "key": "d",
+          "text": "Random node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "19",
+      "question": "Traversal of a linked list means",
+      "options": [
+        {
+          "key": "a",
+          "text": "Deleting nodes"
+        },
+        {
+          "key": "b",
+          "text": "Visiting each node"
+        },
+        {
+          "key": "c",
+          "text": "Adding nodes"
+        },
+        {
+          "key": "d",
+          "text": "Sorting nodes"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "20",
+      "question": "Insertion in a linked list requires",
+      "options": [
+        {
+          "key": "a",
+          "text": "Memory allocation"
+        },
+        {
+          "key": "b",
+          "text": "Pointer adjustment"
+        },
+        {
+          "key": "c",
+          "text": "Both a and b"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "21",
+      "question": "Deletion from a linked list requires",
+      "options": [
+        {
+          "key": "a",
+          "text": "Freeing memory"
+        },
+        {
+          "key": "b",
+          "text": "Updating pointer"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "22",
+      "question": "Searching in a linked list is generally",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sequential"
+        },
+        {
+          "key": "b",
+          "text": "Binary"
+        },
+        {
+          "key": "c",
+          "text": "Random"
+        },
+        {
+          "key": "d",
+          "text": "Indexed"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "23",
+      "question": "Sequential list is another name for",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linked list"
+        },
+        {
+          "key": "b",
+          "text": "Array"
+        },
+        {
+          "key": "c",
+          "text": "Stack"
+        },
+        {
+          "key": "d",
+          "text": "Queue"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "24",
+      "question": "In sequential representation, elements are stored",
+      "options": [
+        {
+          "key": "a",
+          "text": "Randomly"
+        },
+        {
+          "key": "b",
+          "text": "Contiguously"
+        },
+        {
+          "key": "c",
+          "text": "Linked"
+        },
+        {
+          "key": "d",
+          "text": "Dynamically"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "25",
+      "question": "Linked lists are dynamic because",
+      "options": [
+        {
+          "key": "a",
+          "text": "Size can change"
+        },
+        {
+          "key": "b",
+          "text": "Fixed size"
+        },
+        {
+          "key": "c",
+          "text": "No pointer"
+        },
+        {
+          "key": "d",
+          "text": "No memory"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "26",
+      "question": "Doubly linked lists have",
+      "options": [
+        {
+          "key": "a",
+          "text": "One pointer"
+        },
+        {
+          "key": "b",
+          "text": "Two pointers"
+        },
+        {
+          "key": "c",
+          "text": "Three pointers"
+        },
+        {
+          "key": "d",
+          "text": "No pointer"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "27",
+      "question": "In doubly linked lists, nodes contain",
+      "options": [
+        {
+          "key": "a",
+          "text": "Data and next pointer"
+        },
+        {
+          "key": "b",
+          "text": "Data, previous and next pointer"
+        },
+        {
+          "key": "c",
+          "text": "Data only"
+        },
+        {
+          "key": "d",
+          "text": "Two data fields"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "28",
+      "question": "Doubly linked list allows traversal",
+      "options": [
+        {
+          "key": "a",
+          "text": "Forward only"
+        },
+        {
+          "key": "b",
+          "text": "Backward only"
+        },
+        {
+          "key": "c",
+          "text": "Both directions"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "29",
+      "question": "Header linked list contains",
+      "options": [
+        {
+          "key": "a",
+          "text": "Extra node at beginning"
+        },
+        {
+          "key": "b",
+          "text": "Extra node at end"
+        },
+        {
+          "key": "c",
+          "text": "Extra node in middle"
+        },
+        {
+          "key": "d",
+          "text": "No extra node"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "30",
+      "question": "Header node stores",
+      "options": [
+        {
+          "key": "a",
+          "text": "List information"
+        },
+        {
+          "key": "b",
+          "text": "Data only"
+        },
+        {
+          "key": "c",
+          "text": "Address only"
+        },
+        {
+          "key": "d",
+          "text": "No information"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "31",
+      "question": "Linked lists are suitable for",
+      "options": [
+        {
+          "key": "a",
+          "text": "Frequent insertion and deletion"
+        },
+        {
+          "key": "b",
+          "text": "Fixed size storage"
+        },
+        {
+          "key": "c",
+          "text": "Fast indexing"
+        },
+        {
+          "key": "d",
+          "text": "Sorting"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "32",
+      "question": "Arrays are suitable for",
+      "options": [
+        {
+          "key": "a",
+          "text": "Random access"
+        },
+        {
+          "key": "b",
+          "text": "Dynamic insertion"
+        },
+        {
+          "key": "c",
+          "text": "Pointer manipulation"
+        },
+        {
+          "key": "d",
+          "text": "Linked storage"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "33",
+      "question": "Time complexity of traversal in linked list is",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(1)"
+        },
+        {
+          "key": "b",
+          "text": "O(n)"
+        },
+        {
+          "key": "c",
+          "text": "O(log n)"
+        },
+        {
+          "key": "d",
+          "text": "O(n²)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "34",
+      "question": "Time complexity of searching in unsorted linked list is",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(1)"
+        },
+        {
+          "key": "b",
+          "text": "O(n)"
+        },
+        {
+          "key": "c",
+          "text": "O(log n)"
+        },
+        {
+          "key": "d",
+          "text": "O(n²)"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "35",
+      "question": "Deleting the first node requires",
+      "options": [
+        {
+          "key": "a",
+          "text": "Changing head pointer"
+        },
+        {
+          "key": "b",
+          "text": "Changing tail pointer"
+        },
+        {
+          "key": "c",
+          "text": "No change"
+        },
+        {
+          "key": "d",
+          "text": "Sorting"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "36",
+      "question": "Inserting at beginning requires",
+      "options": [
+        {
+          "key": "a",
+          "text": "Updating head pointer"
+        },
+        {
+          "key": "b",
+          "text": "Updating tail pointer"
+        },
+        {
+          "key": "c",
+          "text": "Updating last node"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "37",
+      "question": "A null pointer indicates",
+      "options": [
+        {
+          "key": "a",
+          "text": "No node"
+        },
+        {
+          "key": "b",
+          "text": "Last node"
+        },
+        {
+          "key": "c",
+          "text": "First node"
+        },
+        {
+          "key": "d",
+          "text": "Error"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "38",
+      "question": "Memory allocation in linked list is done using",
+      "options": [
+        {
+          "key": "a",
+          "text": "malloc()"
+        },
+        {
+          "key": "b",
+          "text": "free()"
+        },
+        {
+          "key": "c",
+          "text": "printf()"
+        },
+        {
+          "key": "d",
+          "text": "scanf()"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "39",
+      "question": "Memory deallocation is done using",
+      "options": [
+        {
+          "key": "a",
+          "text": "malloc()"
+        },
+        {
+          "key": "b",
+          "text": "free()"
+        },
+        {
+          "key": "c",
+          "text": "new()"
+        },
+        {
+          "key": "d",
+          "text": "delete()"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "40",
+      "question": "Two dimensional arrays require",
+      "options": [
+        {
+          "key": "a",
+          "text": "Two indices"
+        },
+        {
+          "key": "b",
+          "text": "One index"
+        },
+        {
+          "key": "c",
+          "text": "Three indices"
+        },
+        {
+          "key": "d",
+          "text": "No index"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "41",
+      "question": "Row major order stores array elements",
+      "options": [
+        {
+          "key": "a",
+          "text": "Row by row"
+        },
+        {
+          "key": "b",
+          "text": "Column by column"
+        },
+        {
+          "key": "c",
+          "text": "Diagonally"
+        },
+        {
+          "key": "d",
+          "text": "Randomly"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "42",
+      "question": "Column major order stores elements",
+      "options": [
+        {
+          "key": "a",
+          "text": "Row wise"
+        },
+        {
+          "key": "b",
+          "text": "Column wise"
+        },
+        {
+          "key": "c",
+          "text": "Diagonal wise"
+        },
+        {
+          "key": "d",
+          "text": "Random"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "43",
+      "question": "In a sparse matrix, number of zeros is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Less"
+        },
+        {
+          "key": "b",
+          "text": "More"
+        },
+        {
+          "key": "c",
+          "text": "Equal"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "44",
+      "question": "Lower triangular matrix size is",
+      "options": [
+        {
+          "key": "a",
+          "text": "n(n+1)/2"
+        },
+        {
+          "key": "b",
+          "text": "n²"
+        },
+        {
+          "key": "c",
+          "text": "n(n-1)/2"
+        },
+        {
+          "key": "d",
+          "text": "n"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "45",
+      "question": "Upper triangular matrix size is",
+      "options": [
+        {
+          "key": "a",
+          "text": "n(n+1)/2"
+        },
+        {
+          "key": "b",
+          "text": "n²"
+        },
+        {
+          "key": "c",
+          "text": "n(n-1)/2"
+        },
+        {
+          "key": "d",
+          "text": "n"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "46",
+      "question": "Tri-diagonal matrix contains",
+      "options": [
+        {
+          "key": "a",
+          "text": "3n-2 elements"
+        },
+        {
+          "key": "b",
+          "text": "n² elements"
+        },
+        {
+          "key": "c",
+          "text": "n elements"
+        },
+        {
+          "key": "d",
+          "text": "2n elements"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "47",
+      "question": "Linked list nodes are connected using",
+      "options": [
+        {
+          "key": "a",
+          "text": "Index"
+        },
+        {
+          "key": "b",
+          "text": "Pointer"
+        },
+        {
+          "key": "c",
+          "text": "Variable"
+        },
+        {
+          "key": "d",
+          "text": "Loop"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "48",
+      "question": "Insertion in middle requires",
+      "options": [
+        {
+          "key": "a",
+          "text": "Finding location"
+        },
+        {
+          "key": "b",
+          "text": "Changing pointers"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "49",
+      "question": "Deletion in middle requires",
+      "options": [
+        {
+          "key": "a",
+          "text": "Updating previous node pointer"
+        },
+        {
+          "key": "b",
+          "text": "Free memory"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "50",
+      "question": "Sequential search compares",
+      "options": [
+        {
+          "key": "a",
+          "text": "First element only"
+        },
+        {
+          "key": "b",
+          "text": "Each element sequentially"
+        },
+        {
+          "key": "c",
+          "text": "Random elements"
+        },
+        {
+          "key": "d",
+          "text": "Sorted elements"
+        }
+      ],
+      "answer": "b"
+    }
+  ],
+  "DSA unit3": [
+    {
+      "id": "1",
+      "question": "A stack is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Circular"
+        },
+        {
+          "key": "d",
+          "text": "Hierarchical"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "2",
+      "question": "Stack follows the principle of",
+      "options": [
+        {
+          "key": "a",
+          "text": "FIFO"
+        },
+        {
+          "key": "b",
+          "text": "LIFO"
+        },
+        {
+          "key": "c",
+          "text": "LILO"
+        },
+        {
+          "key": "d",
+          "text": "FILO"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "3",
+      "question": "The insertion operation in a stack is called",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pop"
+        },
+        {
+          "key": "b",
+          "text": "Push"
+        },
+        {
+          "key": "c",
+          "text": "Peek"
+        },
+        {
+          "key": "d",
+          "text": "Delete"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "4",
+      "question": "The deletion operation in a stack is called",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pop"
+        },
+        {
+          "key": "b",
+          "text": "Push"
+        },
+        {
+          "key": "c",
+          "text": "Peek"
+        },
+        {
+          "key": "d",
+          "text": "Insert"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "5",
+      "question": "The top pointer in stack indicates",
+      "options": [
+        {
+          "key": "a",
+          "text": "First element"
+        },
+        {
+          "key": "b",
+          "text": "Last inserted element"
+        },
+        {
+          "key": "c",
+          "text": "Empty stack"
+        },
+        {
+          "key": "d",
+          "text": "Middle element"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "6",
+      "question": "Stack overflow occurs when",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack is empty"
+        },
+        {
+          "key": "b",
+          "text": "Stack is full"
+        },
+        {
+          "key": "c",
+          "text": "Stack is half full"
+        },
+        {
+          "key": "d",
+          "text": "Stack pointer is zero"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "7",
+      "question": "Stack underflow occurs when",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack is empty"
+        },
+        {
+          "key": "b",
+          "text": "Stack is full"
+        },
+        {
+          "key": "c",
+          "text": "Stack has two elements"
+        },
+        {
+          "key": "d",
+          "text": "Stack has one element"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "8",
+      "question": "Which function returns the top element without removing it?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pop"
+        },
+        {
+          "key": "b",
+          "text": "Push"
+        },
+        {
+          "key": "c",
+          "text": "Peek"
+        },
+        {
+          "key": "d",
+          "text": "Insert"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "9",
+      "question": "Stack can be implemented using",
+      "options": [
+        {
+          "key": "a",
+          "text": "Arrays"
+        },
+        {
+          "key": "b",
+          "text": "Linked lists"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "10",
+      "question": "Time complexity of push operation is",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(1)"
+        },
+        {
+          "key": "b",
+          "text": "O(n)"
+        },
+        {
+          "key": "c",
+          "text": "O(log n)"
+        },
+        {
+          "key": "d",
+          "text": "O(n²)"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "11",
+      "question": "Stack is used for",
+      "options": [
+        {
+          "key": "a",
+          "text": "Recursion"
+        },
+        {
+          "key": "b",
+          "text": "Expression evaluation"
+        },
+        {
+          "key": "c",
+          "text": "Syntax parsing"
+        },
+        {
+          "key": "d",
+          "text": "All of these"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "12",
+      "question": "Function calls are managed by",
+      "options": [
+        {
+          "key": "a",
+          "text": "Queue"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Array"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "13",
+      "question": "Parenthesis matching uses",
+      "options": [
+        {
+          "key": "a",
+          "text": "Queue"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Tree"
+        },
+        {
+          "key": "d",
+          "text": "Graph"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "14",
+      "question": "Undo operation in editors uses",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack"
+        },
+        {
+          "key": "b",
+          "text": "Queue"
+        },
+        {
+          "key": "c",
+          "text": "Linked list"
+        },
+        {
+          "key": "d",
+          "text": "Array"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "15",
+      "question": "Reversing a string can be done using",
+      "options": [
+        {
+          "key": "a",
+          "text": "Queue"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Graph"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "16",
+      "question": "Infix expression means operator is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Before operands"
+        },
+        {
+          "key": "b",
+          "text": "Between operands"
+        },
+        {
+          "key": "c",
+          "text": "After operands"
+        },
+        {
+          "key": "d",
+          "text": "Random"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "17",
+      "question": "Prefix expression means operator is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Before operands"
+        },
+        {
+          "key": "b",
+          "text": "Between operands"
+        },
+        {
+          "key": "c",
+          "text": "After operands"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "18",
+      "question": "Postfix expression means operator is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Before operands"
+        },
+        {
+          "key": "b",
+          "text": "Between operands"
+        },
+        {
+          "key": "c",
+          "text": "After operands"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "19",
+      "question": "Example of infix expression is",
+      "options": [
+        {
+          "key": "a",
+          "text": "AB+"
+        },
+        {
+          "key": "b",
+          "text": "+AB"
+        },
+        {
+          "key": "c",
+          "text": "A+B"
+        },
+        {
+          "key": "d",
+          "text": "AB"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "20",
+      "question": "Example of postfix expression is",
+      "options": [
+        {
+          "key": "a",
+          "text": "AB+"
+        },
+        {
+          "key": "b",
+          "text": "+AB"
+        },
+        {
+          "key": "c",
+          "text": "A+B"
+        },
+        {
+          "key": "d",
+          "text": "A+B+C"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "21",
+      "question": "Example of prefix expression is",
+      "options": [
+        {
+          "key": "a",
+          "text": "AB+"
+        },
+        {
+          "key": "b",
+          "text": "+AB"
+        },
+        {
+          "key": "c",
+          "text": "A+B"
+        },
+        {
+          "key": "d",
+          "text": "ABC"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "22",
+      "question": "In postfix expression evaluation, operands appear",
+      "options": [
+        {
+          "key": "a",
+          "text": "Before operator"
+        },
+        {
+          "key": "b",
+          "text": "After operator"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "23",
+      "question": "In prefix expression evaluation, operator appears",
+      "options": [
+        {
+          "key": "a",
+          "text": "Before operands"
+        },
+        {
+          "key": "b",
+          "text": "After operands"
+        },
+        {
+          "key": "c",
+          "text": "Between operands"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "24",
+      "question": "Postfix evaluation uses",
+      "options": [
+        {
+          "key": "a",
+          "text": "Queue"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Array"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "25",
+      "question": "While evaluating postfix, operands are",
+      "options": [
+        {
+          "key": "a",
+          "text": "Pushed into stack"
+        },
+        {
+          "key": "b",
+          "text": "Deleted"
+        },
+        {
+          "key": "c",
+          "text": "Sorted"
+        },
+        {
+          "key": "d",
+          "text": "Ignored"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "26",
+      "question": "When operator appears in postfix evaluation",
+      "options": [
+        {
+          "key": "a",
+          "text": "Two operands are popped"
+        },
+        {
+          "key": "b",
+          "text": "One operand popped"
+        },
+        {
+          "key": "c",
+          "text": "Three operands popped"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "27",
+      "question": "Result of operation is",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stored in queue"
+        },
+        {
+          "key": "b",
+          "text": "Pushed back to stack"
+        },
+        {
+          "key": "c",
+          "text": "Deleted"
+        },
+        {
+          "key": "d",
+          "text": "Printed"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "28",
+      "question": "Postfix evaluation continues until",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack empty"
+        },
+        {
+          "key": "b",
+          "text": "Expression ends"
+        },
+        {
+          "key": "c",
+          "text": "Queue empty"
+        },
+        {
+          "key": "d",
+          "text": "Two elements left"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "29",
+      "question": "Infix to postfix conversion uses",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack"
+        },
+        {
+          "key": "b",
+          "text": "Queue"
+        },
+        {
+          "key": "c",
+          "text": "Tree"
+        },
+        {
+          "key": "d",
+          "text": "Graph"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "30",
+      "question": "Operator precedence determines",
+      "options": [
+        {
+          "key": "a",
+          "text": "Execution order"
+        },
+        {
+          "key": "b",
+          "text": "Storage order"
+        },
+        {
+          "key": "c",
+          "text": "Memory location"
+        },
+        {
+          "key": "d",
+          "text": "Data type"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "31",
+      "question": "Parentheses in expressions are used to",
+      "options": [
+        {
+          "key": "a",
+          "text": "Change precedence"
+        },
+        {
+          "key": "b",
+          "text": "Delete operators"
+        },
+        {
+          "key": "c",
+          "text": "Store values"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "32",
+      "question": "In infix → postfix conversion, operands are",
+      "options": [
+        {
+          "key": "a",
+          "text": "Printed directly"
+        },
+        {
+          "key": "b",
+          "text": "Stored in stack"
+        },
+        {
+          "key": "c",
+          "text": "Ignored"
+        },
+        {
+          "key": "d",
+          "text": "Sorted"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "33",
+      "question": "Operators are stored in",
+      "options": [
+        {
+          "key": "a",
+          "text": "Queue"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Array"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "34",
+      "question": "Queue follows the principle",
+      "options": [
+        {
+          "key": "a",
+          "text": "LIFO"
+        },
+        {
+          "key": "b",
+          "text": "FIFO"
+        },
+        {
+          "key": "c",
+          "text": "FILO"
+        },
+        {
+          "key": "d",
+          "text": "LILO"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "35",
+      "question": "Insertion in queue is called",
+      "options": [
+        {
+          "key": "a",
+          "text": "Enqueue"
+        },
+        {
+          "key": "b",
+          "text": "Dequeue"
+        },
+        {
+          "key": "c",
+          "text": "Push"
+        },
+        {
+          "key": "d",
+          "text": "Pop"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "36",
+      "question": "Deletion in queue is called",
+      "options": [
+        {
+          "key": "a",
+          "text": "Push"
+        },
+        {
+          "key": "b",
+          "text": "Pop"
+        },
+        {
+          "key": "c",
+          "text": "Dequeue"
+        },
+        {
+          "key": "d",
+          "text": "Insert"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "37",
+      "question": "Queue has two pointers",
+      "options": [
+        {
+          "key": "a",
+          "text": "Top and bottom"
+        },
+        {
+          "key": "b",
+          "text": "Front and rear"
+        },
+        {
+          "key": "c",
+          "text": "Head and tail"
+        },
+        {
+          "key": "d",
+          "text": "Left and right"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "38",
+      "question": "Insertion occurs at",
+      "options": [
+        {
+          "key": "a",
+          "text": "Front"
+        },
+        {
+          "key": "b",
+          "text": "Rear"
+        },
+        {
+          "key": "c",
+          "text": "Middle"
+        },
+        {
+          "key": "d",
+          "text": "Random"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "39",
+      "question": "Deletion occurs at",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rear"
+        },
+        {
+          "key": "b",
+          "text": "Front"
+        },
+        {
+          "key": "c",
+          "text": "Middle"
+        },
+        {
+          "key": "d",
+          "text": "Anywhere"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "40",
+      "question": "Queue overflow occurs when",
+      "options": [
+        {
+          "key": "a",
+          "text": "Queue full"
+        },
+        {
+          "key": "b",
+          "text": "Queue empty"
+        },
+        {
+          "key": "c",
+          "text": "Queue half full"
+        },
+        {
+          "key": "d",
+          "text": "Queue small"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "41",
+      "question": "Queue underflow occurs when",
+      "options": [
+        {
+          "key": "a",
+          "text": "Queue empty"
+        },
+        {
+          "key": "b",
+          "text": "Queue full"
+        },
+        {
+          "key": "c",
+          "text": "Queue half full"
+        },
+        {
+          "key": "d",
+          "text": "Queue size 1"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "42",
+      "question": "Queue can be implemented using",
+      "options": [
+        {
+          "key": "a",
+          "text": "Arrays"
+        },
+        {
+          "key": "b",
+          "text": "Linked lists"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "43",
+      "question": "Circular queue helps to",
+      "options": [
+        {
+          "key": "a",
+          "text": "Avoid memory wastage"
+        },
+        {
+          "key": "b",
+          "text": "Increase overflow"
+        },
+        {
+          "key": "c",
+          "text": "Delete data"
+        },
+        {
+          "key": "d",
+          "text": "Sort data"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "44",
+      "question": "Deque means",
+      "options": [
+        {
+          "key": "a",
+          "text": "Double Ended Queue"
+        },
+        {
+          "key": "b",
+          "text": "Dynamic Queue"
+        },
+        {
+          "key": "c",
+          "text": "Dual Queue"
+        },
+        {
+          "key": "d",
+          "text": "Data Queue"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "45",
+      "question": "Deque allows insertion",
+      "options": [
+        {
+          "key": "a",
+          "text": "Front only"
+        },
+        {
+          "key": "b",
+          "text": "Rear only"
+        },
+        {
+          "key": "c",
+          "text": "Both ends"
+        },
+        {
+          "key": "d",
+          "text": "Middle"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "46",
+      "question": "Deque allows deletion",
+      "options": [
+        {
+          "key": "a",
+          "text": "Front only"
+        },
+        {
+          "key": "b",
+          "text": "Rear only"
+        },
+        {
+          "key": "c",
+          "text": "Both ends"
+        },
+        {
+          "key": "d",
+          "text": "Middle"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "47",
+      "question": "Input restricted deque allows",
+      "options": [
+        {
+          "key": "a",
+          "text": "Insertion at one end"
+        },
+        {
+          "key": "b",
+          "text": "Insertion at both ends"
+        },
+        {
+          "key": "c",
+          "text": "Deletion at one end"
+        },
+        {
+          "key": "d",
+          "text": "No insertion"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "48",
+      "question": "Output restricted deque allows",
+      "options": [
+        {
+          "key": "a",
+          "text": "Deletion at one end"
+        },
+        {
+          "key": "b",
+          "text": "Deletion at both ends"
+        },
+        {
+          "key": "c",
+          "text": "No deletion"
+        },
+        {
+          "key": "d",
+          "text": "No insertion"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "49",
+      "question": "In priority queue elements are removed based on",
+      "options": [
+        {
+          "key": "a",
+          "text": "FIFO"
+        },
+        {
+          "key": "b",
+          "text": "LIFO"
+        },
+        {
+          "key": "c",
+          "text": "Priority"
+        },
+        {
+          "key": "d",
+          "text": "Random"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "50",
+      "question": "Highest priority element is removed",
+      "options": [
+        {
+          "key": "a",
+          "text": "First"
+        },
+        {
+          "key": "b",
+          "text": "Last"
+        },
+        {
+          "key": "c",
+          "text": "Randomly"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "51",
+      "question": "Priority queues are used in",
+      "options": [
+        {
+          "key": "a",
+          "text": "CPU scheduling"
+        },
+        {
+          "key": "b",
+          "text": "Network routing"
+        },
+        {
+          "key": "c",
+          "text": "Graph algorithms"
+        },
+        {
+          "key": "d",
+          "text": "All"
+        }
+      ],
+      "answer": "d"
+    },
+    {
+      "id": "52",
+      "question": "In priority queue, elements with same priority follow",
+      "options": [
+        {
+          "key": "a",
+          "text": "FIFO"
+        },
+        {
+          "key": "b",
+          "text": "LIFO"
+        },
+        {
+          "key": "c",
+          "text": "Random"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "53",
+      "question": "Stack pointer indicates top of stack.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "54",
+      "question": "Push increases stack size.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "55",
+      "question": "Pop decreases stack size.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "56",
+      "question": "Prefix notation is also called Polish notation.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "57",
+      "question": "Postfix notation is Reverse Polish notation.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "58",
+      "question": "Expression evaluation commonly uses stacks.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "59",
+      "question": "Queue front points to first element.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "60",
+      "question": "Queue rear points to last element.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "61",
+      "question": "Deque supports both stack and queue operations.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "62",
+      "question": "Priority queue can be implemented using heaps.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "63",
+      "question": "Heap is a complete binary tree.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "64",
+      "question": "Stack supports recursion.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "65",
+      "question": "Balanced parentheses algorithm uses stack.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "66",
+      "question": "Queue used in breadth-first search.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "67",
+      "question": "Deque used in sliding window algorithms.",
+      "options": [],
+      "answer": "true"
+    },
+    {
+      "id": "68",
+      "question": "Priority queue used in Dijkstra algorithm.",
+      "options": [],
+      "answer": "true"
+    }
+  ],
+  "DSA unit4": [
+    {
+      "id": "1",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "2",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "3",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "4",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "5",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "6",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "7",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "8",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "9",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "10",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "11",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "12",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "13",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "14",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "15",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "16",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "17",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "18",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "19",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "20",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "21",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "22",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "23",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "24",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "25",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "26",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "27",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "28",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "29",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "30",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "31",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "32",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "33",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "34",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "35",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "36",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "37",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "38",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "39",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "40",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "41",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "42",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "43",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "44",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "45",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "46",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "47",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "48",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "49",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "50",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "51",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "52",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "53",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "54",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "55",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "56",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "57",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "58",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "59",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "60",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "61",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "62",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "63",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "64",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "65",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "66",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "67",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "68",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "69",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "70",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "71",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "72",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "73",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "74",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "75",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "76",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "77",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "78",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "79",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "80",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "81",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "82",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "83",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "84",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "85",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "86",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "87",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "88",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "89",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "90",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "91",
+      "question": "A tree is a ______ data structure.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Linear b) Non-linear c) Sequential d) Circular"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "92",
+      "question": "The topmost node of a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf b) Root c) Parent d) Child"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "93",
+      "question": "A node with no children is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Root b) Internal node c) Leaf node d) Parent node"
+        }
+      ],
+      "answer": "c"
+    },
+    {
+      "id": "94",
+      "question": "Nodes having the same parent are called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "95",
+      "question": "The number of children of a node is called its ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Degree c) Depth d) Level"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "96",
+      "question": "The maximum degree of any node in the tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Degree of tree b) Height c) Level d) Weight"
+        }
+      ],
+      "answer": "a"
+    },
+    {
+      "id": "97",
+      "question": "The number of edges from root to node is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Height b) Depth c) Weight d) Size"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "98",
+      "question": "The number of nodes in a tree is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Weight b) Size c) Order d) Height"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "99",
+      "question": "A node having at least one child is called ______.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Leaf node b) Internal node c) Root node d) External node"
+        }
+      ],
+      "answer": "b"
+    },
+    {
+      "id": "100",
+      "question": "A binary tree has at most ______ children per node.",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 b) 2 c) 3 d) 4"
+        }
+      ],
+      "answer": "b"
+    }
+  ],
+  "DSA unit5": [
+    {
+      "id": "1",
+      "question": "A graph G = (V, E) consists of:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Vertex set only"
+        },
+        {
+          "key": "b",
+          "text": "Edge set only"
+        },
+        {
+          "key": "c",
+          "text": "Vertex and edge sets"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "2",
+      "question": "Which of these can be used to represent a network of roads?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack"
+        },
+        {
+          "key": "b",
+          "text": "Queue"
+        },
+        {
+          "key": "c",
+          "text": "Graph"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "3",
+      "question": "A graph with no cycle is called a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Subgraph"
+        },
+        {
+          "key": "b",
+          "text": "Acyclic graph"
+        },
+        {
+          "key": "c",
+          "text": "Connected graph"
+        },
+        {
+          "key": "d",
+          "text": "Multigraph"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "4",
+      "question": "A vertex with no edges incident to it is called:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Terminal node"
+        },
+        {
+          "key": "b",
+          "text": "Isolated node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Root"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "5",
+      "question": "In a simple graph, which of the following is true?",
+      "options": [
+        {
+          "key": "a",
+          "text": "No loops, no multiple edges"
+        },
+        {
+          "key": "b",
+          "text": "Loops allowed"
+        },
+        {
+          "key": "c",
+          "text": "Multiple edges allowed"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "6",
+      "question": "In a directed graph, the sum of all in-degrees equals:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Number of vertices"
+        },
+        {
+          "key": "b",
+          "text": "Twice the number of edges"
+        },
+        {
+          "key": "c",
+          "text": "Number of edges"
+        },
+        {
+          "key": "d",
+          "text": "Zero"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "7",
+      "question": "What is the maximum number of edges in a simple undirected graph with n vertices?",
+      "options": [
+        {
+          "key": "a",
+          "text": "n"
+        },
+        {
+          "key": "b",
+          "text": "n(n−1)"
+        },
+        {
+          "key": "c",
+          "text": "n(n−1)/2"
+        },
+        {
+          "key": "d",
+          "text": "n²"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "8",
+      "question": "Which of the following is not a type of graph?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Directed"
+        },
+        {
+          "key": "b",
+          "text": "Weighted"
+        },
+        {
+          "key": "c",
+          "text": "Reflexive"
+        },
+        {
+          "key": "d",
+          "text": "Undirected"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "9",
+      "question": "Two vertices are said to be adjacent if:",
+      "options": [
+        {
+          "key": "a",
+          "text": "They have equal degree"
+        },
+        {
+          "key": "b",
+          "text": "They are connected by an edge"
+        },
+        {
+          "key": "c",
+          "text": "Both have loops"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "10",
+      "question": "The degree of a vertex in an undirected graph equals:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Number of connections to the vertex"
+        },
+        {
+          "key": "b",
+          "text": "Half of its edges"
+        },
+        {
+          "key": "c",
+          "text": "Twice the number of edges"
+        },
+        {
+          "key": "d",
+          "text": "Always zero"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "11",
+      "question": "In a complete graph with n vertices, the number of edges =",
+      "options": [
+        {
+          "key": "a",
+          "text": "n²"
+        },
+        {
+          "key": "b",
+          "text": "n(n−1)/2"
+        },
+        {
+          "key": "c",
+          "text": "n²−1"
+        },
+        {
+          "key": "d",
+          "text": "n−1"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "12",
+      "question": "What is a subgraph?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Graph with additional vertices"
+        },
+        {
+          "key": "b",
+          "text": "Graph with fewer vertices and edges"
+        },
+        {
+          "key": "c",
+          "text": "Graph with all edges reversed"
+        },
+        {
+          "key": "d",
+          "text": "Graph with loops"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "13",
+      "question": "A graph that can be drawn on a plane without edges crossing is called:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Simple graph"
+        },
+        {
+          "key": "b",
+          "text": "Planar graph"
+        },
+        {
+          "key": "c",
+          "text": "Bipartite graph"
+        },
+        {
+          "key": "d",
+          "text": "Directed graph"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "14",
+      "question": "A graph is said to be connected if:",
+      "options": [
+        {
+          "key": "a",
+          "text": "It has no cycles"
+        },
+        {
+          "key": "b",
+          "text": "Each vertex can be reached from every other vertex"
+        },
+        {
+          "key": "c",
+          "text": "It contains a loop"
+        },
+        {
+          "key": "d",
+          "text": "It is weighted"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "15",
+      "question": "The minimum number of edges for a connected graph with n vertices is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "n"
+        },
+        {
+          "key": "b",
+          "text": "n-1"
+        },
+        {
+          "key": "c",
+          "text": "n+1"
+        },
+        {
+          "key": "d",
+          "text": "n²"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "16",
+      "question": "A bipartite graph can be divided into:",
+      "options": [
+        {
+          "key": "a",
+          "text": "2 disjoint vertex sets"
+        },
+        {
+          "key": "b",
+          "text": "3 connected components"
+        },
+        {
+          "key": "c",
+          "text": "1 independent set"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "17",
+      "question": "The sum of degrees of all vertices in an undirected graph equals:",
+      "options": [
+        {
+          "key": "a",
+          "text": "2 × number of edges"
+        },
+        {
+          "key": "b",
+          "text": "Number of vertices"
+        },
+        {
+          "key": "c",
+          "text": "Product of vertices and edges"
+        },
+        {
+          "key": "d",
+          "text": "Number of edges"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "18",
+      "question": "A graph with equal number of vertices and edges where all vertices form a single",
+      "options": [
+        {
+          "key": "a",
+          "text": "Tree"
+        },
+        {
+          "key": "b",
+          "text": "Circuit graph"
+        },
+        {
+          "key": "c",
+          "text": "Wheel graph"
+        },
+        {
+          "key": "d",
+          "text": "Complete"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "19",
+      "question": "Which of these graphs represent one-to-many relationships?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Directed"
+        },
+        {
+          "key": "b",
+          "text": "Undirected"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "20",
+      "question": "If all vertices have equal degree, the graph is called:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Regular"
+        },
+        {
+          "key": "b",
+          "text": "Connected"
+        },
+        {
+          "key": "c",
+          "text": "Weighted"
+        },
+        {
+          "key": "d",
+          "text": "Complete"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "21",
+      "question": "A graph can be represented using:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Adjacency matrix"
+        },
+        {
+          "key": "b",
+          "text": "Adjacency list"
+        },
+        {
+          "key": "c",
+          "text": "Incidence matrix"
+        },
+        {
+          "key": "d",
+          "text": "All of these"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "22",
+      "question": "In adjacency matrix, element A[i][j] = 1 if:",
+      "options": [
+        {
+          "key": "a",
+          "text": "There is an edge between vertex i and j"
+        },
+        {
+          "key": "b",
+          "text": "i = j"
+        },
+        {
+          "key": "c",
+          "text": "i or j is isolated"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "23",
+      "question": "What is the space complexity of adjacency matrix representation?",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(V + E)"
+        },
+        {
+          "key": "b",
+          "text": "O(V²)"
+        },
+        {
+          "key": "c",
+          "text": "O(E)"
+        },
+        {
+          "key": "d",
+          "text": "O(V)"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "24",
+      "question": "Adjacency list is efficient for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dense graphs"
+        },
+        {
+          "key": "b",
+          "text": "Sparse graphs"
+        },
+        {
+          "key": "c",
+          "text": "Complete graphs"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "25",
+      "question": "The adjacency matrix for an undirected graph is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Symmetric"
+        },
+        {
+          "key": "b",
+          "text": "Asymmetric"
+        },
+        {
+          "key": "c",
+          "text": "Skewed"
+        },
+        {
+          "key": "d",
+          "text": "Non-square"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "26",
+      "question": "Adding an edge in adjacency list takes:",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(1)"
+        },
+        {
+          "key": "b",
+          "text": "O(log V)"
+        },
+        {
+          "key": "c",
+          "text": "O(E)"
+        },
+        {
+          "key": "d",
+          "text": "O(V²)"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "27",
+      "question": "Which structure is used for adjacency list?",
+      "options": [
+        {
+          "key": "a",
+          "text": "2D array"
+        },
+        {
+          "key": "b",
+          "text": "Linked list"
+        },
+        {
+          "key": "c",
+          "text": "Queue"
+        },
+        {
+          "key": "d",
+          "text": "Stack"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "28",
+      "question": "Adjacency matrix is preferred when:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Graph is dense"
+        },
+        {
+          "key": "b",
+          "text": "Graph is sparse"
+        },
+        {
+          "key": "c",
+          "text": "Vertices are dynamic"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "29",
+      "question": "For a graph with 4 vertices, what is the size of adjacency matrix?",
+      "options": [
+        {
+          "key": "a",
+          "text": "4×4"
+        },
+        {
+          "key": "b",
+          "text": "3×4"
+        },
+        {
+          "key": "c",
+          "text": "4×2"
+        },
+        {
+          "key": "d",
+          "text": "2×4"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "30",
+      "question": "Which representation uses less space for sparse graphs?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Matrix"
+        },
+        {
+          "key": "b",
+          "text": "List"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "31",
+      "question": "The adjacency matrix of unweighted graph contains values:",
+      "options": [
+        {
+          "key": "a",
+          "text": "0 or 1"
+        },
+        {
+          "key": "b",
+          "text": "Weight values"
+        },
+        {
+          "key": "c",
+          "text": "1 or -1"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "32",
+      "question": "In adjacency list representation, each vertex contains:",
+      "options": [
+        {
+          "key": "a",
+          "text": "A list of connected vertices"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Index only"
+        },
+        {
+          "key": "d",
+          "text": "Weights only"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "33",
+      "question": "Which representation efficiently checks if two vertices are adjacent?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Adjacency matrix"
+        },
+        {
+          "key": "b",
+          "text": "Adjacency list"
+        },
+        {
+          "key": "c",
+          "text": "Incidence matrix"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "34",
+      "question": "For a graph with n vertices, how many entries in adjacency matrix are possible?",
+      "options": [
+        {
+          "key": "a",
+          "text": "n"
+        },
+        {
+          "key": "b",
+          "text": "n²"
+        },
+        {
+          "key": "c",
+          "text": "2n"
+        },
+        {
+          "key": "d",
+          "text": "n+1"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "35",
+      "question": "The space complexity of adjacency list is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(V + E)"
+        },
+        {
+          "key": "b",
+          "text": "O(V²)"
+        },
+        {
+          "key": "c",
+          "text": "O(E²)"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "36",
+      "question": "When a graph is heavily connected, which representation is suitable?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Matrix"
+        },
+        {
+          "key": "b",
+          "text": "List"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "37",
+      "question": "Deleting a vertex is easier in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Matrix"
+        },
+        {
+          "key": "b",
+          "text": "List"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "38",
+      "question": "Traversing neighbors of a vertex is faster in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Adjacency list"
+        },
+        {
+          "key": "b",
+          "text": "Adjacency matrix"
+        },
+        {
+          "key": "c",
+          "text": "None"
+        },
+        {
+          "key": "d",
+          "text": "Both"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "39",
+      "question": "Which representation easily stores edge weights?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Both list and matrix"
+        },
+        {
+          "key": "b",
+          "text": "Only matrix"
+        },
+        {
+          "key": "c",
+          "text": "Only list"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "40",
+      "question": "Sparse graph means:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Few edges relative to vertices"
+        },
+        {
+          "key": "b",
+          "text": "Many edges"
+        },
+        {
+          "key": "c",
+          "text": "Complete graph"
+        },
+        {
+          "key": "d",
+          "text": "Disconnected graph"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "41",
+      "question": "BFS stands for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Best First Search"
+        },
+        {
+          "key": "b",
+          "text": "Breadth First Search"
+        },
+        {
+          "key": "c",
+          "text": "Backward First Search"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "42",
+      "question": "DFS stands for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Directed First Search"
+        },
+        {
+          "key": "b",
+          "text": "Depth First Search"
+        },
+        {
+          "key": "c",
+          "text": "Distance First Search"
+        },
+        {
+          "key": "d",
+          "text": "Data Flow Search"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "43",
+      "question": "BFS uses which data structure?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack"
+        },
+        {
+          "key": "b",
+          "text": "Queue"
+        },
+        {
+          "key": "c",
+          "text": "Linked List"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "44",
+      "question": "DFS uses:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stack"
+        },
+        {
+          "key": "b",
+          "text": "Queue"
+        },
+        {
+          "key": "c",
+          "text": "Linked list"
+        },
+        {
+          "key": "d",
+          "text": "Array"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "45",
+      "question": "BFS traversal of graph is similar to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Preorder traversal"
+        },
+        {
+          "key": "b",
+          "text": "Level order traversal"
+        },
+        {
+          "key": "c",
+          "text": "Inorder traversal"
+        },
+        {
+          "key": "d",
+          "text": "Postorder"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "46",
+      "question": "DFS traversal of graph is similar to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Preorder"
+        },
+        {
+          "key": "b",
+          "text": "Inorder"
+        },
+        {
+          "key": "c",
+          "text": "Level order"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "47",
+      "question": "BFS guarantees:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Minimum depth path"
+        },
+        {
+          "key": "b",
+          "text": "Maximum depth path"
+        },
+        {
+          "key": "c",
+          "text": "Random traversal"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "48",
+      "question": "Time complexity of BFS:",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(V + E)"
+        },
+        {
+          "key": "b",
+          "text": "O(V²)"
+        },
+        {
+          "key": "c",
+          "text": "O(E²)"
+        },
+        {
+          "key": "d",
+          "text": "O(VE)"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "49",
+      "question": "DFS time complexity:",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(V + E)"
+        },
+        {
+          "key": "b",
+          "text": "O(V²)"
+        },
+        {
+          "key": "c",
+          "text": "O(E²)"
+        },
+        {
+          "key": "d",
+          "text": "O(VE)"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "50",
+      "question": "Which algorithm is recursive in nature?",
+      "options": [
+        {
+          "key": "a",
+          "text": "BFS"
+        },
+        {
+          "key": "b",
+          "text": "DFS"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "51",
+      "question": "BFS is preferred when:",
+      "options": [
+        {
+          "key": "a",
+          "text": "You need shortest path"
+        },
+        {
+          "key": "b",
+          "text": "Need deep traversal"
+        },
+        {
+          "key": "c",
+          "text": "Random order"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "52",
+      "question": "DFS can be used to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Detect cycles"
+        },
+        {
+          "key": "b",
+          "text": "Sort topologically"
+        },
+        {
+          "key": "c",
+          "text": "Find connectivity"
+        },
+        {
+          "key": "d",
+          "text": "All of the above"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "53",
+      "question": "BFS requires how much auxiliary space?",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(V)"
+        },
+        {
+          "key": "b",
+          "text": "O(E)"
+        },
+        {
+          "key": "c",
+          "text": "O(V + E)"
+        },
+        {
+          "key": "d",
+          "text": "O(1)"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "54",
+      "question": "The traversal that uses a queue is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "BFS"
+        },
+        {
+          "key": "b",
+          "text": "DFS"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "55",
+      "question": "DFS traversal can be implemented:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Recursively"
+        },
+        {
+          "key": "b",
+          "text": "Iteratively with stack"
+        },
+        {
+          "key": "c",
+          "text": "Both a & b"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "56",
+      "question": "In DFS tree, back edges are used to detect:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cycles"
+        },
+        {
+          "key": "b",
+          "text": "Tree edges"
+        },
+        {
+          "key": "c",
+          "text": "Forward edges"
+        },
+        {
+          "key": "d",
+          "text": "Cross edges"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "57",
+      "question": "BFS is used in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Finding shortest path in unweighted graph"
+        },
+        {
+          "key": "b",
+          "text": "All pair shortest path"
+        },
+        {
+          "key": "c",
+          "text": "MST generation"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "58",
+      "question": "DFS is preferred for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Topological sorting"
+        },
+        {
+          "key": "b",
+          "text": "BFS queue"
+        },
+        {
+          "key": "c",
+          "text": "Minimum spanning tree"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "59",
+      "question": "When vertex is visited in DFS, it is pushed into:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Queue"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Priority queue"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "60",
+      "question": "BFS explores in order of:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Depth"
+        },
+        {
+          "key": "b",
+          "text": "Level"
+        },
+        {
+          "key": "c",
+          "text": "Edge count"
+        },
+        {
+          "key": "d",
+          "text": "Random"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "61",
+      "question": "A spanning tree is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Subgraph including all vertices with minimum edges"
+        },
+        {
+          "key": "b",
+          "text": "Graph with all possible edges"
+        },
+        {
+          "key": "c",
+          "text": "Tree with cycles"
+        },
+        {
+          "key": "d",
+          "text": "Disconnected tree"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "62",
+      "question": "Number of edges in a spanning tree =",
+      "options": [
+        {
+          "key": "a",
+          "text": "n"
+        },
+        {
+          "key": "b",
+          "text": "n-1"
+        },
+        {
+          "key": "c",
+          "text": "n+1"
+        },
+        {
+          "key": "d",
+          "text": "n²"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "63",
+      "question": "Every connected graph has at least:",
+      "options": [
+        {
+          "key": "a",
+          "text": "One spanning tree"
+        },
+        {
+          "key": "b",
+          "text": "Two spanning trees"
+        },
+        {
+          "key": "c",
+          "text": "No spanning tree"
+        },
+        {
+          "key": "d",
+          "text": "Infinite spanning trees"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "64",
+      "question": "For a disconnected graph, spanning tree:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Doesn’t exist"
+        },
+        {
+          "key": "b",
+          "text": "Exists"
+        },
+        {
+          "key": "c",
+          "text": "Partial"
+        },
+        {
+          "key": "d",
+          "text": "Complete"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "65",
+      "question": "Minimum Spanning Tree (MST) of a weighted graph:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Connects all vertices with minimum total edge cost"
+        },
+        {
+          "key": "b",
+          "text": "Has maximum weight"
+        },
+        {
+          "key": "c",
+          "text": "Ignores weights"
+        },
+        {
+          "key": "d",
+          "text": "May have cycles"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "66",
+      "question": "MST is defined only for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Connected, weighted, undirected graphs"
+        },
+        {
+          "key": "b",
+          "text": "Directed"
+        },
+        {
+          "key": "c",
+          "text": "Disconnected"
+        },
+        {
+          "key": "d",
+          "text": "Any graph"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "67",
+      "question": "Total edges in MST for n vertices =",
+      "options": [
+        {
+          "key": "a",
+          "text": "n-1"
+        },
+        {
+          "key": "b",
+          "text": "n"
+        },
+        {
+          "key": "c",
+          "text": "n+1"
+        },
+        {
+          "key": "d",
+          "text": "2n"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "68",
+      "question": "A tree is a:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Connected acyclic graph"
+        },
+        {
+          "key": "b",
+          "text": "Cyclic connected"
+        },
+        {
+          "key": "c",
+          "text": "Disconnected cyclic"
+        },
+        {
+          "key": "d",
+          "text": "Directed"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "69",
+      "question": "Number of possible spanning trees in a complete graph Kₙ =",
+      "options": [
+        {
+          "key": "a",
+          "text": "n^(n−2)"
+        },
+        {
+          "key": "b",
+          "text": "nⁿ"
+        },
+        {
+          "key": "c",
+          "text": "2ⁿ"
+        },
+        {
+          "key": "d",
+          "text": "n²"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "70",
+      "question": "Which algorithm can generate MST?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Prim’s"
+        },
+        {
+          "key": "b",
+          "text": "Kruskal’s"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "71",
+      "question": "A spanning tree does not contain:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cycles"
+        },
+        {
+          "key": "b",
+          "text": "Minimum edges"
+        },
+        {
+          "key": "c",
+          "text": "All vertices"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "72",
+      "question": "In MST, all vertices are connected by:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Least total weight"
+        },
+        {
+          "key": "b",
+          "text": "Maximum weight"
+        },
+        {
+          "key": "c",
+          "text": "Arbitrary"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "73",
+      "question": "All MSTs of same graph have:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Equal total weight"
+        },
+        {
+          "key": "b",
+          "text": "Different weights"
+        },
+        {
+          "key": "c",
+          "text": "Loops"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "74",
+      "question": "Graph with unique edge weights has:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Unique MST"
+        },
+        {
+          "key": "b",
+          "text": "Multiple MSTs"
+        },
+        {
+          "key": "c",
+          "text": "No MST"
+        },
+        {
+          "key": "d",
+          "text": "Random MST"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "75",
+      "question": "Every MST is a spanning tree, but every spanning tree:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Need not be MST"
+        },
+        {
+          "key": "b",
+          "text": "Must be MST"
+        },
+        {
+          "key": "c",
+          "text": "Is not connected"
+        },
+        {
+          "key": "d",
+          "text": "Is a subgraph"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "76",
+      "question": "MST is useful in:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Network design"
+        },
+        {
+          "key": "b",
+          "text": "Sorting arrays"
+        },
+        {
+          "key": "c",
+          "text": "Stack operations"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "77",
+      "question": "Removing any edge from a spanning tree will make it:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Disconnected"
+        },
+        {
+          "key": "b",
+          "text": "Dense"
+        },
+        {
+          "key": "c",
+          "text": "Cyclic"
+        },
+        {
+          "key": "d",
+          "text": "Weighted"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "78",
+      "question": "Adding an edge in spanning tree will create:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Cycle"
+        },
+        {
+          "key": "b",
+          "text": "None"
+        },
+        {
+          "key": "c",
+          "text": "Connectedness"
+        },
+        {
+          "key": "d",
+          "text": "A path"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "79",
+      "question": "MST algorithms are based on:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Greedy approach"
+        },
+        {
+          "key": "b",
+          "text": "Divide & conquer"
+        },
+        {
+          "key": "c",
+          "text": "DP"
+        },
+        {
+          "key": "d",
+          "text": "Backtracking"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "80",
+      "question": "The objective of MST is to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Minimize cost"
+        },
+        {
+          "key": "b",
+          "text": "Maximize edges"
+        },
+        {
+          "key": "c",
+          "text": "Reduce vertices"
+        },
+        {
+          "key": "d",
+          "text": "Random select"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "81",
+      "question": "Prim’s algorithm is based on:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Greedy method"
+        },
+        {
+          "key": "b",
+          "text": "Dynamic programming"
+        },
+        {
+          "key": "c",
+          "text": "Backtracking"
+        },
+        {
+          "key": "d",
+          "text": "Branch & bound"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "82",
+      "question": "Kruskal’s algorithm is also:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Greedy"
+        },
+        {
+          "key": "b",
+          "text": "Divide and conquer"
+        },
+        {
+          "key": "c",
+          "text": "Randomized"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "83",
+      "question": "Prim’s algorithm starts from:",
+      "options": [
+        {
+          "key": "a",
+          "text": "A chosen vertex"
+        },
+        {
+          "key": "b",
+          "text": "All vertices"
+        },
+        {
+          "key": "c",
+          "text": "Random edge"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "84",
+      "question": "Kruskal’s algorithm starts from:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Smallest edge"
+        },
+        {
+          "key": "b",
+          "text": "Any vertex"
+        },
+        {
+          "key": "c",
+          "text": "Root"
+        },
+        {
+          "key": "d",
+          "text": "Random edge"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "85",
+      "question": "Prim’s algorithm is similar to:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dijkstra’s algorithm"
+        },
+        {
+          "key": "b",
+          "text": "BFS"
+        },
+        {
+          "key": "c",
+          "text": "DFS"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "86",
+      "question": "Kruskal’s algorithm uses which data structure for cycle detection?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Union-Find"
+        },
+        {
+          "key": "b",
+          "text": "Stack"
+        },
+        {
+          "key": "c",
+          "text": "Queue"
+        },
+        {
+          "key": "d",
+          "text": "Heap"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "87",
+      "question": "Time complexity of Prim’s with adjacency matrix =",
+      "options": [
+        {
+          "key": "a",
+          "text": "O(V²)"
+        },
+        {
+          "key": "b",
+          "text": "O(V + E)"
+        },
+        {
+          "key": "c",
+          "text": "O(E log V)"
+        },
+        {
+          "key": "d",
+          "text": "O(E²)"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "88",
+      "question": "Prim’s algorithm stops when:",
+      "options": [
+        {
+          "key": "a",
+          "text": "All vertices are included"
+        },
+        {
+          "key": "b",
+          "text": "All edges used"
+        },
+        {
+          "key": "c",
+          "text": "A cycle is formed"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "89",
+      "question": "Kruskal’s algorithm stops when:",
+      "options": [
+        {
+          "key": "a",
+          "text": "n−1 edges are included"
+        },
+        {
+          "key": "b",
+          "text": "Cycle is formed"
+        },
+        {
+          "key": "c",
+          "text": "All nodes disconnected"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "90",
+      "question": "The output of both Prim’s and Kruskal’s is:",
+      "options": [
+        {
+          "key": "a",
+          "text": "MST"
+        },
+        {
+          "key": "b",
+          "text": "Shortest Path Tree"
+        },
+        {
+          "key": "c",
+          "text": "DFS Tree"
+        },
+        {
+          "key": "d",
+          "text": "BFS Tree"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "91",
+      "question": "Kruskal’s sorts:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Edges"
+        },
+        {
+          "key": "b",
+          "text": "Vertices"
+        },
+        {
+          "key": "c",
+          "text": "Adjacency lists"
+        },
+        {
+          "key": "d",
+          "text": "Paths"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "92",
+      "question": "Prim’s algorithm prefers:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Adjacency matrix"
+        },
+        {
+          "key": "b",
+          "text": "Edge list"
+        },
+        {
+          "key": "c",
+          "text": "None"
+        },
+        {
+          "key": "d",
+          "text": "Linked list"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "93",
+      "question": "Kruskal’s algorithm prefers:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Edge list"
+        },
+        {
+          "key": "b",
+          "text": "Adjacency matrix"
+        },
+        {
+          "key": "c",
+          "text": "None"
+        },
+        {
+          "key": "d",
+          "text": "Tree"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "94",
+      "question": "When all edge weights are equal, MST has:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Any spanning tree"
+        },
+        {
+          "key": "b",
+          "text": "Unique MST"
+        },
+        {
+          "key": "c",
+          "text": "Infinite cycles"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "95",
+      "question": "Which algorithm adds only those edges which connect two different trees?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kruskal’s"
+        },
+        {
+          "key": "b",
+          "text": "Prim’s"
+        },
+        {
+          "key": "c",
+          "text": "BFS"
+        },
+        {
+          "key": "d",
+          "text": "DFS"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "96",
+      "question": "Which algorithm extends from a single vertex outward?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Prim’s"
+        },
+        {
+          "key": "b",
+          "text": "Kruskal’s"
+        },
+        {
+          "key": "c",
+          "text": "Dijkstra’s"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "97",
+      "question": "Prim’s algorithm can handle:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Negative weights? No"
+        },
+        {
+          "key": "b",
+          "text": "Negative weights? Yes"
+        },
+        {
+          "key": "c",
+          "text": "Both"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "98",
+      "question": "Kruskal’s algorithm works best for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sparse graphs"
+        },
+        {
+          "key": "b",
+          "text": "Dense graphs"
+        },
+        {
+          "key": "c",
+          "text": "Neither"
+        },
+        {
+          "key": "d",
+          "text": "Directed"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "99",
+      "question": "Prim’s algorithm works faster for:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dense graphs"
+        },
+        {
+          "key": "b",
+          "text": "Sparse graphs"
+        },
+        {
+          "key": "c",
+          "text": "Disconnected"
+        },
+        {
+          "key": "d",
+          "text": "None"
+        }
+      ],
+      "answer": ""
+    },
+    {
+      "id": "100",
+      "question": "Both Prim’s and Kruskal’s find:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Minimum spanning tree"
+        },
+        {
+          "key": "b",
+          "text": "Maximum flow"
+        },
+        {
+          "key": "c",
+          "text": "Shortest path"
+        },
+        {
+          "key": "d",
+          "text": "Topological order"
+        }
+      ],
+      "answer": ""
+    }
+  ]
+}
