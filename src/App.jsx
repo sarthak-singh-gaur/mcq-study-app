@@ -2,7 +2,8 @@ import React, { useState, useEffect, useMemo } from 'react';
 import Sidebar from './components/Sidebar';
 import QuestionCard from './components/QuestionCard';
 import mcqData from './data/mcqs.json';
-import { Trophy, RefreshCw, BarChart4 } from 'lucide-react';
+import { Trophy, RefreshCw, BarChart4, CheckCircle2, XCircle } from 'lucide-react';
+
 import { motion, AnimatePresence } from 'framer-motion';
 
 const STORAGE_KEY = 'mcq_study_progress_v2'; // New key for the overhauled version
@@ -42,12 +43,16 @@ function App() {
   const unitStats = useMemo(() => {
     const unitProgress = progress[activeUnit] || {};
     const answers = Object.values(unitProgress);
+    const correct = answers.filter(a => a.isCorrect).length;
+    const totalAnswered = answers.length;
     return {
-      completed: answers.length,
-      correct: answers.filter(a => a.isCorrect).length,
+      completed: totalAnswered,
+      correct: correct,
+      wrong: totalAnswered - correct,
       total: questions.length
     };
   }, [progress, activeUnit, questions]);
+
 
   const statsAcrossUnits = useMemo(() => {
     const allStats = {};
@@ -101,7 +106,44 @@ function App() {
       />
 
       <main className="main-content">
+        {!showSummary && (
+          <div className="w-full max-w-3xl mx-auto mb-8 flex gap-4">
+            <div className="flex-1 bg-emerald-500/10 border border-emerald-500/20 rounded-2xl p-4 flex items-center justify-between">
+              <div>
+                <span className="block text-[10px] font-black uppercase tracking-widest text-emerald-500/60 mb-1">Correct</span>
+                <span className="text-2xl font-black text-emerald-400">{unitStats.correct}</span>
+              </div>
+              <div className="h-10 w-10 bg-emerald-500/20 rounded-xl flex items-center justify-center text-emerald-400">
+                <CheckCircle2 size={20} />
+              </div>
+            </div>
+            
+            <div className="flex-1 bg-rose-500/10 border border-rose-500/20 rounded-2xl p-4 flex items-center justify-between">
+              <div>
+                <span className="block text-[10px] font-black uppercase tracking-widest text-rose-500/60 mb-1">Wrong</span>
+                <span className="text-2xl font-black text-rose-400">{unitStats.wrong}</span>
+              </div>
+              <div className="h-10 w-10 bg-rose-500/20 rounded-xl flex items-center justify-center text-rose-400">
+                <XCircle size={20} />
+              </div>
+            </div>
+
+            <div className="flex-1 bg-indigo-500/10 border border-indigo-500/20 rounded-2xl p-4 flex items-center justify-between">
+              <div>
+                <span className="block text-[10px] font-black uppercase tracking-widest text-indigo-500/60 mb-1">Accuracy</span>
+                <span className="text-2xl font-black text-indigo-400">
+                  {unitStats.completed > 0 ? Math.round((unitStats.correct / unitStats.completed) * 100) : 0}%
+                </span>
+              </div>
+              <div className="h-10 w-10 bg-indigo-500/20 rounded-xl flex items-center justify-center text-indigo-400">
+                <BarChart4 size={20} />
+              </div>
+            </div>
+          </div>
+        )}
+
         <AnimatePresence mode="wait">
+
           {showSummary ? (
             <motion.div 
               initial={{ opacity: 0, y: 20 }}
