@@ -1,6 +1,8 @@
 {
   "name": "mcq-study-app",
   "private": true,
+  "homepage": "https://sarthak-singh-gaur.github.io/mcq-study-app/",
+
   "version": "0.0.0",
   "type": "module",
   "scripts": {
