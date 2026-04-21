@@ -3679,7 +3679,7 @@
         },
         {
           "key": "d",
-          "text": "O(n²)"
+          "text": "O(n²) Stack Applications"
         }
       ],
       "answer": "a"
@@ -3794,7 +3794,7 @@
         },
         {
           "key": "d",
-          "text": "Tree"
+          "text": "Tree Expression Types"
         }
       ],
       "answer": "b"
@@ -3978,7 +3978,7 @@
         },
         {
           "key": "d",
-          "text": "None"
+          "text": "None Postfix Evaluation"
         }
       ],
       "answer": "a"
@@ -4093,7 +4093,7 @@
         },
         {
           "key": "d",
-          "text": "Two elements left"
+          "text": "Two elements left Expression Conversion"
         }
       ],
       "answer": "b"
@@ -4208,7 +4208,7 @@
         },
         {
           "key": "d",
-          "text": "Tree"
+          "text": "Tree Queue Basics"
         }
       ],
       "answer": "b"
@@ -4369,7 +4369,7 @@
         },
         {
           "key": "d",
-          "text": "Queue small"
+          "text": "Queue small Queue Operations"
         }
       ],
       "answer": "a"
@@ -4438,7 +4438,7 @@
         },
         {
           "key": "d",
-          "text": "Sort data"
+          "text": "Sort data Deque (Double Ended Queue)"
         }
       ],
       "answer": "a"
@@ -4553,7 +4553,7 @@
         },
         {
           "key": "d",
-          "text": "No insertion"
+          "text": "No insertion Priority Queue"
         }
       ],
       "answer": "a"
@@ -4645,7 +4645,7 @@
         },
         {
           "key": "d",
-          "text": "None"
+          "text": "None More MCQs (53–100)"
         }
       ],
       "answer": "a"
@@ -4654,97 +4654,97 @@
       "id": "53",
       "question": "Stack pointer indicates top of stack.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "54",
       "question": "Push increases stack size.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "55",
       "question": "Pop decreases stack size.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "56",
       "question": "Prefix notation is also called Polish notation.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "57",
       "question": "Postfix notation is Reverse Polish notation.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "58",
       "question": "Expression evaluation commonly uses stacks.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "59",
       "question": "Queue front points to first element.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "60",
       "question": "Queue rear points to last element.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "61",
       "question": "Deque supports both stack and queue operations.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "62",
       "question": "Priority queue can be implemented using heaps.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "63",
       "question": "Heap is a complete binary tree.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "64",
       "question": "Stack supports recursion.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "65",
       "question": "Balanced parentheses algorithm uses stack.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "66",
       "question": "Queue used in breadth-first search.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "67",
       "question": "Deque used in sliding window algorithms.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     },
     {
       "id": "68",
       "question": "Priority queue used in Dijkstra algorithm.",
       "options": [],
-      "answer": "true"
+      "answer": ""
     }
   ],
   "DSA unit4": [
@@ -4754,7 +4754,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -4765,7 +4777,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -4776,7 +4800,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -4787,7 +4823,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -4798,7 +4846,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -4809,7 +4869,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -4820,7 +4892,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -4831,7 +4915,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -4842,7 +4938,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -4853,7 +4961,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -4864,7 +4984,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -4875,7 +5007,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -4886,7 +5030,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -4897,7 +5053,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -4908,7 +5076,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -4919,7 +5099,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -4930,7 +5122,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -4941,7 +5145,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -4952,7 +5168,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -4963,7 +5191,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -4974,7 +5214,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -4985,7 +5237,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -4996,7 +5260,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -5007,7 +5283,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -5018,7 +5306,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -5029,7 +5329,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -5040,7 +5352,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -5051,7 +5375,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -5062,7 +5398,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -5073,7 +5421,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -5084,7 +5444,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -5095,7 +5467,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -5106,7 +5490,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -5117,7 +5513,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -5128,7 +5536,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -5139,7 +5559,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -5150,7 +5582,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -5161,7 +5605,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -5172,7 +5628,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -5183,7 +5651,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -5194,7 +5674,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -5205,7 +5697,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -5216,7 +5720,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -5227,7 +5743,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -5238,7 +5766,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -5249,7 +5789,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -5260,7 +5812,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -5271,7 +5835,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -5282,7 +5858,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -5293,7 +5881,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -5304,7 +5904,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -5315,7 +5927,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -5326,7 +5950,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -5337,7 +5973,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -5348,7 +5996,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -5359,7 +6019,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -5370,7 +6042,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -5381,7 +6065,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -5392,7 +6088,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -5403,7 +6111,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -5414,7 +6134,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -5425,7 +6157,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -5436,7 +6180,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -5447,7 +6203,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -5458,7 +6226,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -5469,7 +6249,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -5480,7 +6272,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -5491,7 +6295,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -5502,7 +6318,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -5513,7 +6341,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -5524,7 +6364,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -5535,7 +6387,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -5546,7 +6410,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -5557,7 +6433,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -5568,7 +6456,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -5579,7 +6479,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -5590,7 +6502,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -5601,7 +6525,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -5612,7 +6548,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -5623,7 +6571,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -5634,7 +6594,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -5645,7 +6617,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -5656,7 +6640,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -5667,7 +6663,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -5678,7 +6686,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -5689,7 +6709,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -5700,7 +6732,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -5711,7 +6755,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -5722,7 +6778,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -5733,7 +6801,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -5744,7 +6824,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Linear b) Non-linear c) Sequential d) Circular"
+          "text": "Linear"
+        },
+        {
+          "key": "b",
+          "text": "Non-linear"
+        },
+        {
+          "key": "c",
+          "text": "Sequential"
+        },
+        {
+          "key": "d",
+          "text": "Circular"
         }
       ],
       "answer": "b"
@@ -5755,7 +6847,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf b) Root c) Parent d) Child"
+          "text": "Leaf"
+        },
+        {
+          "key": "b",
+          "text": "Root"
+        },
+        {
+          "key": "c",
+          "text": "Parent"
+        },
+        {
+          "key": "d",
+          "text": "Child"
         }
       ],
       "answer": "b"
@@ -5766,7 +6870,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Root b) Internal node c) Leaf node d) Parent node"
+          "text": "Root"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Leaf node"
+        },
+        {
+          "key": "d",
+          "text": "Parent node"
         }
       ],
       "answer": "c"
@@ -5777,7 +6893,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Ancestors b) Siblings c) Descendants d) Leaves"
+          "text": "Ancestors"
+        },
+        {
+          "key": "b",
+          "text": "Siblings"
+        },
+        {
+          "key": "c",
+          "text": "Descendants"
+        },
+        {
+          "key": "d",
+          "text": "Leaves"
         }
       ],
       "answer": "b"
@@ -5788,7 +6916,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Degree c) Depth d) Level"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Degree"
+        },
+        {
+          "key": "c",
+          "text": "Depth"
+        },
+        {
+          "key": "d",
+          "text": "Level"
         }
       ],
       "answer": "b"
@@ -5799,7 +6939,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Degree of tree b) Height c) Level d) Weight"
+          "text": "Degree of tree"
+        },
+        {
+          "key": "b",
+          "text": "Height"
+        },
+        {
+          "key": "c",
+          "text": "Level"
+        },
+        {
+          "key": "d",
+          "text": "Weight"
         }
       ],
       "answer": "a"
@@ -5810,7 +6962,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Height b) Depth c) Weight d) Size"
+          "text": "Height"
+        },
+        {
+          "key": "b",
+          "text": "Depth"
+        },
+        {
+          "key": "c",
+          "text": "Weight"
+        },
+        {
+          "key": "d",
+          "text": "Size"
         }
       ],
       "answer": "b"
@@ -5821,7 +6985,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Weight b) Size c) Order d) Height"
+          "text": "Weight"
+        },
+        {
+          "key": "b",
+          "text": "Size"
+        },
+        {
+          "key": "c",
+          "text": "Order"
+        },
+        {
+          "key": "d",
+          "text": "Height"
         }
       ],
       "answer": "b"
@@ -5832,7 +7008,19 @@
       "options": [
         {
           "key": "a",
-          "text": "Leaf node b) Internal node c) Root node d) External node"
+          "text": "Leaf node"
+        },
+        {
+          "key": "b",
+          "text": "Internal node"
+        },
+        {
+          "key": "c",
+          "text": "Root node"
+        },
+        {
+          "key": "d",
+          "text": "External node"
         }
       ],
       "answer": "b"
@@ -5843,7 +7031,19 @@
       "options": [
         {
           "key": "a",
-          "text": "1 b) 2 c) 3 d) 4"
+          "text": "1"
+        },
+        {
+          "key": "b",
+          "text": "2"
+        },
+        {
+          "key": "c",
+          "text": "3"
+        },
+        {
+          "key": "d",
+          "text": "4"
         }
       ],
       "answer": "b"
@@ -5871,7 +7071,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "c"
     },
     {
       "id": "2",
@@ -5894,7 +7094,7 @@
           "text": "Tree"
         }
       ],
-      "answer": ""
+      "answer": "c"
     },
     {
       "id": "3",
@@ -5917,7 +7117,7 @@
           "text": "Multigraph"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "4",
@@ -5940,7 +7140,7 @@
           "text": "Root"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "5",
@@ -5963,7 +7163,7 @@
           "text": "All of the above"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "6",
@@ -5986,7 +7186,7 @@
           "text": "Zero"
         }
       ],
-      "answer": ""
+      "answer": "c"
     },
     {
       "id": "7",
@@ -6009,7 +7209,7 @@
           "text": "n²"
         }
       ],
-      "answer": ""
+      "answer": "c"
     },
     {
       "id": "8",
@@ -6032,7 +7232,7 @@
           "text": "Undirected"
         }
       ],
-      "answer": ""
+      "answer": "c"
     },
     {
       "id": "9",
@@ -6055,7 +7255,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "10",
@@ -6078,7 +7278,7 @@
           "text": "Always zero"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "11",
@@ -6101,7 +7301,7 @@
           "text": "n−1"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "12",
@@ -6124,7 +7324,7 @@
           "text": "Graph with loops"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "13",
@@ -6147,7 +7347,7 @@
           "text": "Directed graph"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "14",
@@ -6170,7 +7370,7 @@
           "text": "It is weighted"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "15",
@@ -6193,7 +7393,7 @@
           "text": "n²"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "16",
@@ -6216,7 +7416,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "17",
@@ -6239,11 +7439,11 @@
           "text": "Number of edges"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "18",
-      "question": "A graph with equal number of vertices and edges where all vertices form a single",
+      "question": "A graph with equal number of vertices and edges where all vertices form a single cycle is called:",
       "options": [
         {
           "key": "a",
@@ -6262,7 +7462,7 @@
           "text": "Complete"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "19",
@@ -6285,7 +7485,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "20",
@@ -6305,10 +7505,10 @@
         },
         {
           "key": "d",
-          "text": "Complete"
+          "text": "Complete Section B – Graph Representation (21–40)"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "21",
@@ -6331,7 +7531,7 @@
           "text": "All of these"
         }
       ],
-      "answer": ""
+      "answer": "d"
     },
     {
       "id": "22",
@@ -6354,7 +7554,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "23",
@@ -6377,7 +7577,7 @@
           "text": "O(V)"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "24",
@@ -6400,7 +7600,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "25",
@@ -6423,7 +7623,7 @@
           "text": "Non-square"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "26",
@@ -6446,7 +7646,7 @@
           "text": "O(V²)"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "27",
@@ -6469,7 +7669,7 @@
           "text": "Stack"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "28",
@@ -6492,7 +7692,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "29",
@@ -6515,7 +7715,7 @@
           "text": "2×4"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "30",
@@ -6538,7 +7738,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "31",
@@ -6561,7 +7761,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "32",
@@ -6584,7 +7784,7 @@
           "text": "Weights only"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "33",
@@ -6607,7 +7807,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "34",
@@ -6630,7 +7830,7 @@
           "text": "n+1"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "35",
@@ -6653,7 +7853,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "36",
@@ -6676,7 +7876,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "37",
@@ -6699,7 +7899,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "38",
@@ -6722,7 +7922,7 @@
           "text": "Both"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "39",
@@ -6745,7 +7945,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "40",
@@ -6765,10 +7965,10 @@
         },
         {
           "key": "d",
-          "text": "Disconnected graph"
+          "text": "Disconnected graph Section C – Traversal (DFS, BFS) (41–60)"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "41",
@@ -6791,7 +7991,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "42",
@@ -6814,7 +8014,7 @@
           "text": "Data Flow Search"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "43",
@@ -6837,7 +8037,7 @@
           "text": "Tree"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "44",
@@ -6860,7 +8060,7 @@
           "text": "Array"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "45",
@@ -6883,7 +8083,7 @@
           "text": "Postorder"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "46",
@@ -6906,7 +8106,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "47",
@@ -6929,7 +8129,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "48",
@@ -6952,7 +8152,7 @@
           "text": "O(VE)"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "49",
@@ -6975,7 +8175,7 @@
           "text": "O(VE)"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "50",
@@ -6998,7 +8198,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "51",
@@ -7021,7 +8221,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "52",
@@ -7044,7 +8244,7 @@
           "text": "All of the above"
         }
       ],
-      "answer": ""
+      "answer": "d"
     },
     {
       "id": "53",
@@ -7067,7 +8267,7 @@
           "text": "O(1)"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "54",
@@ -7090,7 +8290,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "55",
@@ -7113,7 +8313,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "c"
     },
     {
       "id": "56",
@@ -7136,7 +8336,7 @@
           "text": "Cross edges"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "57",
@@ -7159,7 +8359,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "58",
@@ -7182,7 +8382,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "59",
@@ -7205,7 +8405,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "60",
@@ -7225,10 +8425,10 @@
         },
         {
           "key": "d",
-          "text": "Random"
+          "text": "Random Section D – Spanning Tree and MST (61–80)"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "61",
@@ -7251,7 +8451,7 @@
           "text": "Disconnected tree"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "62",
@@ -7274,7 +8474,7 @@
           "text": "n²"
         }
       ],
-      "answer": ""
+      "answer": "b"
     },
     {
       "id": "63",
@@ -7297,7 +8497,7 @@
           "text": "Infinite spanning trees"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "64",
@@ -7320,7 +8520,7 @@
           "text": "Complete"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "65",
@@ -7343,7 +8543,7 @@
           "text": "May have cycles"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "66",
@@ -7366,7 +8566,7 @@
           "text": "Any graph"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "67",
@@ -7389,7 +8589,7 @@
           "text": "2n"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "68",
@@ -7412,7 +8612,7 @@
           "text": "Directed"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "69",
@@ -7435,7 +8635,7 @@
           "text": "n²"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "70",
@@ -7458,7 +8658,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "c"
     },
     {
       "id": "71",
@@ -7481,7 +8681,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "72",
@@ -7504,7 +8704,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "73",
@@ -7527,7 +8727,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "74",
@@ -7550,7 +8750,7 @@
           "text": "Random MST"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "75",
@@ -7573,7 +8773,7 @@
           "text": "Is a subgraph"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "76",
@@ -7596,7 +8796,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "77",
@@ -7619,7 +8819,7 @@
           "text": "Weighted"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "78",
@@ -7642,7 +8842,7 @@
           "text": "A path"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "79",
@@ -7665,7 +8865,7 @@
           "text": "Backtracking"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "80",
@@ -7685,10 +8885,10 @@
         },
         {
           "key": "d",
-          "text": "Random select"
+          "text": "Random select Section E – Prim’s & Kruskal’s Algorithms (81–100)"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "81",
@@ -7711,7 +8911,7 @@
           "text": "Branch & bound"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "82",
@@ -7734,7 +8934,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "83",
@@ -7757,7 +8957,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "84",
@@ -7780,7 +8980,7 @@
           "text": "Random edge"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "85",
@@ -7803,7 +9003,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "86",
@@ -7826,7 +9026,7 @@
           "text": "Heap"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "87",
@@ -7849,7 +9049,7 @@
           "text": "O(E²)"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "88",
@@ -7872,7 +9072,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "89",
@@ -7895,7 +9095,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "90",
@@ -7918,7 +9118,7 @@
           "text": "BFS Tree"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "91",
@@ -7941,7 +9141,7 @@
           "text": "Paths"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "92",
@@ -7964,7 +9164,7 @@
           "text": "Linked list"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "93",
@@ -7987,7 +9187,7 @@
           "text": "Tree"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "94",
@@ -8010,7 +9210,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "95",
@@ -8033,7 +9233,7 @@
           "text": "DFS"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "96",
@@ -8056,7 +9256,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "97",
@@ -8079,7 +9279,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "98",
@@ -8102,7 +9302,7 @@
           "text": "Directed"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "99",
@@ -8125,7 +9325,7 @@
           "text": "None"
         }
       ],
-      "answer": ""
+      "answer": "a"
     },
     {
       "id": "100",
@@ -8145,10 +9345,10 @@
         },
         {
           "key": "d",
-          "text": "Topological order"
+          "text": "Topological order ✅"
         }
       ],
-      "answer": ""
+      "answer": "a"
     }
   ]
 }
