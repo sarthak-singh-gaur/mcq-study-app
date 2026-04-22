@@ -105,13 +105,28 @@ function App() {
     }
   };
 
-  const resetUnit = () => {
-    if (window.confirm(`Are you sure you want to reset all progress for ${activeUnit}?`)) {
+  const resetUnit = (unitName) => {
+    const unitToReset = unitName || activeUnit;
+    if (window.confirm(`Are you sure you want to reset all progress for ${unitToReset}?`)) {
       const newProgress = { ...progress };
-      delete newProgress[activeUnit];
+      delete newProgress[unitToReset];
       setProgress(newProgress);
+      
+      if (unitToReset === activeUnit) {
+        setCurrentIndex(0);
+        setShowSummary(false);
+      }
+    }
+  };
+
+  const resetAllProgress = () => {
+    if (window.confirm("Are you sure you want to reset ALL progress and session data? This cannot be undone.")) {
+      setProgress({});
       setCurrentIndex(0);
+      setActiveUnit(Object.keys(mcqData)[0]);
       setShowSummary(false);
+      localStorage.removeItem(STORAGE_KEY);
+      localStorage.removeItem(SESSION_KEY);
     }
   };
 
@@ -127,6 +142,8 @@ function App() {
         units={mcqData} 
         activeUnit={activeUnit} 
         onSelectUnit={startUnit}
+        onResetUnit={resetUnit}
+        onResetAll={resetAllProgress}
         stats={statsAcrossUnits}
       />
 
@@ -205,7 +222,7 @@ function App() {
                   <button onClick={() => setShowSummary(false)} className="flex-[2] primary-btn justify-center py-5">
                     Practice More
                   </button>
-                  <button onClick={resetUnit} className="flex-1 bg-slate-800 text-slate-400 p-5 rounded-2xl hover:text-rose-400 hover:bg-rose-500/10 transition-all flex items-center justify-center gap-2 font-bold uppercase tracking-widest text-[10px]">
+                  <button onClick={() => resetUnit()} className="flex-1 bg-slate-800 text-slate-400 p-5 rounded-2xl hover:text-rose-400 hover:bg-rose-500/10 transition-all flex items-center justify-center gap-2 font-bold uppercase tracking-widest text-[10px]">
                     <RefreshCw size={18} />
                     Reset
                   </button>
