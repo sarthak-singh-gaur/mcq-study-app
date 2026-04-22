@@ -6,18 +6,38 @@ import { Trophy, RefreshCw, BarChart4, CheckCircle2, XCircle } from 'lucide-reac
 
 import { motion, AnimatePresence } from 'framer-motion';
 
-const STORAGE_KEY = 'mcq_study_progress_v2'; // New key for the overhauled version
+const STORAGE_KEY = 'mcq_study_progress_v2';
+const SESSION_KEY = 'mcq_study_session_v2';
 
 function App() {
-  const [activeUnit, setActiveUnit] = useState(Object.keys(mcqData)[0]);
-  const [currentIndex, setCurrentIndex] = useState(0);
+  // Load initial state from localStorage
+  const getInitialSession = () => {
+    const saved = localStorage.getItem(SESSION_KEY);
+    if (saved) {
+      try {
+        return JSON.parse(saved);
+      } catch (e) {
+        return null;
+      }
+    }
+    return null;
+  };
+
+  const initialSession = getInitialSession();
+
+  const [activeUnit, setActiveUnit] = useState(initialSession?.activeUnit || Object.keys(mcqData)[0]);
+  const [currentIndex, setCurrentIndex] = useState(initialSession?.currentIndex || 0);
   const [progress, setProgress] = useState({});
   const [showSummary, setShowSummary] = useState(false);
 
   useEffect(() => {
     const saved = localStorage.getItem(STORAGE_KEY);
     if (saved) {
-      setProgress(JSON.parse(saved));
+      try {
+        setProgress(JSON.parse(saved));
+      } catch (e) {
+        console.error("Failed to parse progress", e);
+      }
     }
   }, []);
 
@@ -26,6 +46,11 @@ function App() {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
     }
   }, [progress]);
+
+  // Save session state (active unit and index) whenever they change
+  useEffect(() => {
+    localStorage.setItem(SESSION_KEY, JSON.stringify({ activeUnit, currentIndex }));
+  }, [activeUnit, currentIndex]);
 
   const questions = useMemo(() => mcqData[activeUnit] || [], [activeUnit]);
   const currentQuestion = questions[currentIndex];
